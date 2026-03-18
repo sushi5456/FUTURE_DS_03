@@ -1,0 +1,2001 @@
+Row ID,event_date ,user id,traffic_source,device type,product category,page_view,add_to_cart,checkout,purchase,order_value(INR)
+1,26/04/2025,8994,Social,Tablet,Fashion,0,0,0,0,3499
+2,18/06/2025,7065,Social,Tablet,Beauty,1,1,0,0,2499
+3,18/11/2024,5184,,Tablet,Electronics,1,0,0,0,799
+4,29/01/2025,5967,Social,Desktop,Electronics,1,,0,0,2499
+5,07/04/2025,5593,Paid Ads,Tablet,,1,1,0,,1999
+6,07/01/2025,6231,Organic,Mobile,Electronics,1,0,0,1,1299
+7,30/05/2025,5321,Referral,,,1,,0,,0
+8,21/04/2025,8319,Organic,Mobile,,1,0,0,0,0
+9,19/01/2025,6630,Organic,,Sports,1,1,0,0,3499
+10,11/06/2025,5794,Paid Ads,Tablet,Fashion,1,1,0,,0
+11,22/05/2025,5548,Email,Tablet,Sports,1,1,0,1,2499
+12,11/06/2025,5101,Email,Desktop,,1,1,,0,799
+13,04/06/2025,7793,Email,Tablet,Electronics,1,0,0,0,
+14,31/01/2025,7409,Paid Ads,Tablet,Beauty,0,,0,1,0
+15,27/05/2025,8970,Referral,Desktop,Beauty,1,0,1,0,1999
+16,24/12/2024,5807,Paid Ads,Desktop,Fashion,1,0,0,0,3499
+17,26/02/2025,5255,Referral,Mobile,Fashion,1,0,1,1,1299
+18,23/04/2025,7322,,Mobile,,1,0,0,0,0
+19,03/04/2025,6174,Paid Ads,Desktop,,1,0,0,0,1299
+20,19/03/2025,8388,Email,Mobile,,1,0,1,0,0
+21,11/02/2025,7914,Organic,Mobile,Home & Kitchen,1,1,0,1,0
+22,18/05/2025,5255,Organic,,Fashion,1,0,0,0,0
+23,20/11/2024,7886,Email,,Beauty,1,0,0,0,1299
+24,25/05/2025,7302,,Desktop,,1,0,0,1,0
+25,18/11/2024,7506,Email,Mobile,Fashion,,1,1,0,1299
+26,19/06/2025,6541,Social,Desktop,Sports,1,,0,0,1299
+27,20/12/2024,7583,Organic,,,1,0,0,0,1999
+28,06/06/2025,6348,Referral,Tablet,Fashion,1,,1,0,3499
+29,26/06/2025,6241,Organic,Mobile,,1,1,0,0,1299
+30,29/05/2025,6012,Organic,,,0,0,0,0,799
+31,29/06/2025,8611,Referral,Tablet,Sports,1,,0,,3499
+32,29/10/2024,6435,,Desktop,Home & Kitchen,1,0,0,0,3499
+33,15/02/2025,5507,Email,,,1,0,0,0,1999
+34,11/02/2025,7812,Organic,,,1,1,0,0,2499
+35,24/05/2025,8719,Referral,Mobile,Beauty,1,0,1,0,799
+36,27/01/2025,7595,Email,Tablet,Electronics,,0,0,0,
+37,19/05/2025,6693,Social,,Electronics,1,0,,0,0
+38,08/06/2025,6441,Email,Mobile,Home & Kitchen,1,,1,0,2499
+39,07/05/2025,6732,,Tablet,Fashion,0,1,0,0,1299
+40,31/01/2025,7362,,Mobile,Beauty,1,0,0,,0
+41,10/03/2025,8416,Referral,,,1,0,1,0,
+42,21/01/2025,6306,Paid Ads,Desktop,Beauty,1,0,0,1,3499
+43,03/12/2024,7994,Paid Ads,Tablet,Home & Kitchen,1,1,0,0,
+44,26/04/2025,6019,Social,,Beauty,1,1,1,0,1299
+45,31/03/2025,5974,,,Beauty,1,1,0,1,0
+46,30/01/2025,5649,Paid Ads,Desktop,Fashion,1,0,0,0,799
+47,11/12/2024,6591,Paid Ads,Tablet,Home & Kitchen,1,,0,0,799
+48,03/11/2024,6810,Organic,Tablet,,1,1,1,0,
+49,09/10/2024,5450,Organic,Mobile,Sports,1,0,0,0,1999
+50,28/11/2024,5068,,Desktop,Beauty,1,0,1,0,1999
+51,12/01/2025,8699,Email,Tablet,Beauty,1,0,0,0,1299
+52,04/02/2025,6074,Email,Desktop,,1,0,0,0,0
+53,16/01/2025,8987,Referral,Mobile,Fashion,1,0,0,0,2499
+54,04/12/2024,7450,,Desktop,,1,,0,1,
+55,03/03/2025,7457,Email,Tablet,Sports,1,0,0,1,1999
+56,09/05/2025,7416,Organic,Tablet,Beauty,1,1,,0,1299
+57,25/04/2025,5022,Organic,Desktop,,1,0,0,0,799
+58,06/10/2024,5870,Social,Desktop,Home & Kitchen,1,0,0,0,2499
+59,21/03/2025,7675,Organic,Mobile,,1,0,1,0,1299
+60,19/10/2024,6752,,Desktop,,1,0,0,0,3499
+61,03/06/2025,7943,Email,Tablet,,1,1,0,0,0
+62,12/06/2025,8386,Paid Ads,Mobile,Beauty,1,0,0,1,1299
+63,10/02/2025,6209,,,Sports,1,1,1,1,799
+64,12/03/2025,5298,Referral,Mobile,Beauty,,0,,0,0
+65,20/11/2024,7913,Social,,,1,0,0,0,3499
+66,22/02/2025,5649,Organic,Desktop,Home & Kitchen,1,1,1,0,0
+67,16/05/2025,8513,Referral,,Fashion,1,0,,,1999
+68,02/10/2024,6664,Social,Mobile,,1,0,1,0,3499
+69,02/10/2024,8471,Social,Desktop,Fashion,1,1,0,0,3499
+70,28/10/2024,5515,Paid Ads,Mobile,Sports,1,0,0,0,0
+71,11/03/2025,6172,,Desktop,Beauty,1,0,0,,1999
+72,04/06/2025,7388,Social,Mobile,Beauty,1,0,,0,
+73,02/11/2024,6775,Paid Ads,Tablet,Beauty,1,1,0,,1999
+74,13/04/2025,5315,Referral,Tablet,Beauty,0,1,0,0,0
+75,10/05/2025,5252,Organic,Mobile,,1,1,0,0,2499
+76,07/12/2024,8389,Social,Mobile,Home & Kitchen,1,0,0,0,1999
+77,02/10/2024,8398,,,Home & Kitchen,1,0,1,0,1999
+78,05/12/2024,8016,Organic,Desktop,Electronics,1,0,0,0,0
+79,26/04/2025,8934,Email,Tablet,Home & Kitchen,1,0,0,1,0
+80,11/03/2025,8137,Email,Tablet,,1,0,0,0,2499
+81,19/11/2024,8555,Organic,Desktop,Fashion,1,1,0,0,1299
+82,03/11/2024,5238,,,Beauty,1,0,1,0,1299
+83,25/06/2025,8918,,Tablet,,1,,0,0,3499
+84,25/06/2025,5996,Email,Mobile,Fashion,1,0,0,0,799
+85,24/04/2025,5146,Referral,Desktop,Beauty,1,0,1,0,799
+86,04/06/2025,7327,Organic,Desktop,Sports,1,0,1,0,0
+87,03/06/2025,6185,Social,Desktop,Sports,1,1,0,0,
+88,02/04/2025,7458,Email,Desktop,Sports,1,1,0,0,2499
+89,18/05/2025,8009,Social,Tablet,,1,0,0,0,799
+90,03/02/2025,5940,Referral,Desktop,Beauty,1,0,,0,1299
+91,21/12/2024,6593,Paid Ads,,,1,0,0,,1299
+92,16/01/2025,7487,Organic,,,1,0,0,0,0
+93,04/10/2024,7314,,Desktop,Home & Kitchen,1,1,0,0,1999
+94,03/01/2025,6298,,,Fashion,1,1,1,0,1999
+95,08/11/2024,8763,Email,Tablet,,1,0,0,0,
+96,12/04/2025,6694,Organic,,Sports,,1,0,0,1299
+97,15/06/2025,7842,Organic,Tablet,Electronics,1,0,0,0,0
+98,09/05/2025,5633,,Desktop,Electronics,1,0,0,,799
+99,20/12/2024,6103,Paid Ads,Tablet,Electronics,1,1,0,0,0
+100,08/04/2025,6015,Email,Mobile,,1,0,0,,1999
+101,26/05/2025,7447,Email,Mobile,Sports,1,0,1,,0
+102,29/01/2025,6779,Organic,Tablet,Fashion,1,1,1,0,0
+103,11/10/2024,7103,Organic,Tablet,,1,0,0,0,
+104,08/12/2024,8285,,Desktop,Electronics,,0,,0,799
+105,29/10/2024,8830,Paid Ads,Tablet,Beauty,1,0,1,0,2499
+106,22/02/2025,8320,Paid Ads,Mobile,Fashion,0,,0,,0
+107,04/11/2024,6355,,Mobile,,1,,0,0,0
+108,11/11/2024,7551,Referral,Tablet,,1,0,1,,1999
+109,01/10/2024,5898,Email,Mobile,Sports,1,1,1,1,0
+110,03/04/2025,5660,Email,Tablet,Fashion,1,0,0,0,1299
+111,08/03/2025,6501,Organic,Desktop,Home & Kitchen,0,0,0,1,3499
+112,02/10/2024,6284,Organic,Desktop,Sports,1,0,0,1,1999
+113,12/04/2025,5428,Referral,Desktop,Sports,1,1,0,1,1999
+114,06/11/2024,5026,Paid Ads,Desktop,Electronics,1,0,1,0,799
+115,27/01/2025,7730,,,Fashion,1,0,0,,2499
+116,08/06/2025,7751,Organic,Desktop,Sports,0,0,0,,3499
+117,31/03/2025,7757,Referral,Desktop,Beauty,1,1,0,0,2499
+118,17/06/2025,8759,Referral,Desktop,,1,0,0,0,0
+119,21/06/2025,5559,Organic,Desktop,Fashion,1,0,1,0,2499
+120,10/03/2025,5647,Email,,Sports,1,0,0,0,1299
+121,31/03/2025,7850,Paid Ads,,Beauty,1,0,0,1,799
+122,03/01/2025,8397,Email,Mobile,Fashion,,1,0,0,0
+123,11/10/2024,7793,Organic,Desktop,,0,1,1,0,1299
+124,01/03/2025,5053,Referral,,Sports,,0,0,1,0
+125,25/05/2025,8781,Social,Desktop,Sports,0,0,0,0,1299
+126,15/05/2025,7615,Organic,Tablet,Sports,1,,0,0,2499
+127,29/04/2025,7374,Email,Tablet,,1,1,0,0,799
+128,30/12/2024,7593,Social,Mobile,,,1,1,0,2499
+129,06/05/2025,6429,Referral,Tablet,Fashion,0,0,0,,0
+130,23/01/2025,8870,Organic,Desktop,Sports,1,0,0,1,0
+131,28/06/2025,7592,Paid Ads,Tablet,Home & Kitchen,1,1,0,0,0
+132,19/05/2025,5379,,Desktop,Home & Kitchen,,1,1,,2499
+133,09/02/2025,6438,Referral,Tablet,,1,0,0,0,1299
+134,04/03/2025,5418,Organic,Desktop,Home & Kitchen,1,0,,1,1999
+135,26/06/2025,7781,Referral,Desktop,Fashion,1,1,1,1,3499
+136,21/04/2025,6598,Organic,Desktop,Sports,1,0,,0,1299
+137,27/05/2025,8558,,,Sports,1,0,0,0,799
+138,09/01/2025,8633,Referral,,,,0,0,0,0
+139,17/06/2025,8136,,Mobile,,1,0,0,0,3499
+140,11/02/2025,5791,,Mobile,,0,0,0,0,
+141,17/03/2025,7650,,,Electronics,1,0,1,1,1999
+142,17/02/2025,5892,Paid Ads,Desktop,Beauty,1,1,1,0,1999
+143,01/10/2024,8772,Organic,Mobile,Sports,0,0,1,1,799
+144,08/06/2025,5670,Email,,Beauty,1,0,0,0,1999
+145,16/04/2025,8217,Paid Ads,,Fashion,1,1,0,,1999
+146,09/01/2025,5706,Paid Ads,Desktop,Sports,1,0,0,0,1299
+147,12/04/2025,8032,Referral,Mobile,Sports,1,1,0,0,1999
+148,07/05/2025,5388,Paid Ads,,Beauty,0,1,0,0,0
+149,27/04/2025,7695,Organic,Desktop,Electronics,1,,0,0,3499
+150,27/06/2025,8359,Social,Mobile,Sports,1,,1,1,
+151,19/12/2024,7959,Social,Desktop,Sports,1,1,0,1,799
+152,03/10/2024,5625,Referral,,,0,1,,,2499
+153,29/01/2025,6264,Referral,Desktop,Fashion,1,0,0,0,1999
+154,15/12/2024,5807,Paid Ads,Tablet,Fashion,1,0,1,0,1299
+155,23/12/2024,8585,Organic,,Sports,1,0,,0,1299
+156,20/12/2024,7200,Referral,,Sports,1,0,0,0,0
+157,18/12/2024,5104,Referral,Tablet,Sports,0,0,0,0,3499
+158,08/10/2024,7600,Referral,,,0,1,1,0,3499
+159,20/01/2025,8177,Referral,Desktop,Sports,1,,0,0,1299
+160,14/05/2025,8867,Referral,Tablet,,0,1,0,0,
+161,16/02/2025,5206,Paid Ads,Desktop,Beauty,1,,0,0,3499
+162,12/01/2025,7488,Email,Desktop,Beauty,1,,,0,3499
+163,01/11/2024,5627,Paid Ads,,Sports,1,0,0,0,799
+164,28/02/2025,6836,Referral,Tablet,,1,,0,0,1299
+165,11/04/2025,6764,Referral,Mobile,Home & Kitchen,1,1,0,0,1999
+166,18/10/2024,7283,Email,Desktop,Fashion,0,0,0,1,2499
+167,15/06/2025,8850,Social,Desktop,Fashion,1,0,,1,799
+168,16/04/2025,5161,Paid Ads,Mobile,Sports,1,,0,0,
+169,03/05/2025,5988,,,,1,1,0,0,0
+170,22/10/2024,5009,Paid Ads,Desktop,Electronics,1,1,0,0,1999
+171,14/12/2024,6272,,Desktop,,0,0,0,0,0
+172,16/10/2024,5820,Organic,Desktop,Sports,1,1,,0,
+173,30/04/2025,5070,,Mobile,,1,1,,0,2499
+174,26/01/2025,8797,Referral,Mobile,,1,0,0,1,1999
+175,13/12/2024,6355,Social,Desktop,Electronics,1,0,1,1,1999
+176,02/12/2024,7467,,Desktop,Beauty,0,0,0,1,3499
+177,24/11/2024,5409,Paid Ads,,,1,0,0,0,799
+178,26/11/2024,5929,Referral,Mobile,Home & Kitchen,1,0,0,0,2499
+179,24/03/2025,7819,Paid Ads,Mobile,Fashion,0,0,0,0,3499
+180,10/01/2025,6465,Referral,Desktop,Electronics,1,0,0,,3499
+181,22/04/2025,6406,,Desktop,Beauty,1,0,1,0,1999
+182,25/12/2024,5179,,,Home & Kitchen,1,0,0,0,799
+183,08/03/2025,5265,Referral,,Beauty,0,1,1,0,
+184,24/11/2024,5473,Email,Desktop,Beauty,1,1,0,,0
+185,20/01/2025,7857,Email,Mobile,Fashion,1,0,0,0,
+186,27/01/2025,5393,,Desktop,Home & Kitchen,0,0,0,0,2499
+187,06/06/2025,5448,Referral,,Electronics,1,0,0,0,
+188,15/05/2025,8134,Organic,Tablet,,1,0,0,,
+189,15/12/2024,8814,Paid Ads,Mobile,Sports,1,0,1,,1999
+190,07/02/2025,8099,Social,Mobile,Home & Kitchen,1,1,0,,2499
+191,03/04/2025,6273,,Mobile,Electronics,1,1,1,,1299
+192,15/05/2025,5573,Paid Ads,,Fashion,1,0,0,0,2499
+193,26/02/2025,7099,Referral,,,,1,0,,799
+194,09/05/2025,7199,Referral,Mobile,,0,0,0,0,2499
+195,04/10/2024,6115,Social,Tablet,Fashion,1,0,1,0,2499
+196,11/04/2025,5540,Referral,Tablet,Sports,,0,1,0,1299
+197,30/05/2025,8247,Referral,,,1,0,0,0,
+198,15/03/2025,6566,,Tablet,Electronics,0,0,0,0,2499
+199,02/02/2025,5116,Email,,Fashion,1,0,0,0,2499
+200,02/02/2025,8295,Organic,Mobile,Home & Kitchen,1,0,,0,799
+201,24/11/2024,5307,Social,,Sports,0,0,0,0,3499
+202,30/01/2025,7235,Email,Desktop,Beauty,1,1,1,0,2499
+203,13/12/2024,5588,Referral,Tablet,,1,0,1,0,1999
+204,23/02/2025,5728,Email,Desktop,Home & Kitchen,1,0,0,0,2499
+205,17/04/2025,7362,Referral,Tablet,Beauty,1,0,,0,3499
+206,15/06/2025,8511,Organic,Desktop,Home & Kitchen,1,0,0,0,3499
+207,20/05/2025,5315,,Mobile,Beauty,1,,0,0,1999
+208,11/06/2025,5314,Email,Mobile,Beauty,1,0,0,,
+209,31/10/2024,7986,Paid Ads,Desktop,Fashion,1,1,1,1,3499
+210,06/01/2025,6231,,Mobile,Electronics,1,0,0,,2499
+211,23/11/2024,6845,Email,Desktop,Home & Kitchen,1,0,1,0,
+212,19/10/2024,5892,Organic,Desktop,Sports,1,,0,,2499
+213,30/11/2024,8321,Referral,Mobile,Sports,1,1,0,0,1999
+214,04/04/2025,5507,Referral,,Home & Kitchen,1,0,1,,
+215,04/01/2025,5287,,Mobile,Electronics,1,1,,0,2499
+216,22/10/2024,7732,Organic,,Sports,1,0,0,0,1999
+217,25/05/2025,6045,Organic,,,0,0,,0,0
+218,28/05/2025,5784,Paid Ads,Tablet,Electronics,1,1,0,0,0
+219,01/03/2025,8540,Paid Ads,Desktop,Beauty,1,0,0,1,
+220,05/06/2025,6961,Email,Desktop,,0,0,0,0,3499
+221,04/11/2024,7957,Organic,Mobile,Electronics,1,0,0,0,3499
+222,20/10/2024,5617,Organic,Desktop,Sports,1,0,0,,1299
+223,16/12/2024,5338,,Desktop,Home & Kitchen,1,0,0,1,799
+224,16/04/2025,5661,Referral,Desktop,,1,0,0,0,1299
+225,11/02/2025,7870,Referral,Tablet,,,0,,0,2499
+226,11/03/2025,7660,Social,Mobile,Fashion,1,0,1,1,3499
+227,02/11/2024,8460,Social,Desktop,Fashion,1,0,1,1,3499
+228,01/04/2025,8596,Referral,Tablet,Electronics,1,,1,,0
+229,31/01/2025,8986,Organic,Mobile,,1,0,0,0,2499
+230,13/03/2025,7243,Social,Mobile,Electronics,1,0,0,0,
+231,13/03/2025,5723,Paid Ads,Mobile,Electronics,1,1,1,0,3499
+232,18/05/2025,5666,,,Home & Kitchen,1,1,1,,3499
+233,25/10/2024,5228,,Tablet,Electronics,0,,1,0,1299
+234,03/12/2024,7879,Paid Ads,Tablet,Beauty,1,0,0,0,
+235,26/11/2024,6349,Email,Desktop,Electronics,0,,1,1,2499
+236,20/06/2025,6136,Organic,Mobile,Electronics,1,,0,0,2499
+237,29/05/2025,5626,Email,Desktop,Fashion,1,0,0,0,1999
+238,14/01/2025,8977,Social,Mobile,Fashion,1,1,,0,
+239,21/12/2024,5503,Referral,Desktop,Fashion,1,1,0,1,
+240,07/05/2025,7282,Email,Desktop,Sports,1,1,1,,0
+241,11/06/2025,7867,Referral,Mobile,Beauty,0,1,0,0,799
+242,09/06/2025,6912,Social,,Home & Kitchen,1,1,0,,2499
+243,28/02/2025,8778,Social,,Sports,0,0,0,0,799
+244,11/06/2025,6606,,Mobile,Home & Kitchen,1,1,1,,1299
+245,13/02/2025,7323,Paid Ads,Mobile,,1,0,0,0,1299
+246,01/11/2024,5284,Paid Ads,,,1,0,0,0,799
+247,03/01/2025,6608,Social,,Fashion,1,1,0,1,1299
+248,28/06/2025,5566,Social,Tablet,Fashion,1,0,0,0,3499
+249,26/03/2025,5523,,Mobile,Home & Kitchen,1,0,0,0,799
+250,20/01/2025,5482,Referral,Tablet,Home & Kitchen,1,0,0,,1999
+251,17/05/2025,7604,Paid Ads,Desktop,Home & Kitchen,1,0,0,0,799
+252,10/05/2025,8202,Social,Desktop,Fashion,1,0,0,1,799
+253,20/12/2024,7921,Social,,,0,1,1,0,2499
+254,20/05/2025,6881,Social,Mobile,Home & Kitchen,1,1,0,0,2499
+255,18/02/2025,8777,Organic,Tablet,,1,0,0,1,0
+256,14/04/2025,6517,Email,Tablet,,1,1,0,0,1299
+257,18/11/2024,8482,Organic,Tablet,Home & Kitchen,1,0,0,0,1999
+258,07/03/2025,8814,,,,0,0,0,0,2499
+259,24/05/2025,7011,Referral,,Sports,1,0,0,0,1999
+260,20/04/2025,6633,,,Electronics,1,0,0,0,
+261,16/02/2025,5900,Social,Desktop,Sports,1,0,0,0,3499
+262,15/06/2025,5227,Paid Ads,Desktop,Fashion,1,0,0,0,1999
+263,10/06/2025,7138,Paid Ads,Mobile,Home & Kitchen,0,0,0,0,3499
+264,01/01/2025,8071,Referral,,Beauty,,,0,1,1999
+265,06/05/2025,8936,Social,Mobile,Beauty,1,1,0,0,1999
+266,03/06/2025,8676,Organic,,,1,1,0,1,1999
+267,15/01/2025,8027,Email,,Electronics,1,0,0,,1999
+268,09/04/2025,8197,Social,Mobile,Home & Kitchen,1,,,0,1299
+269,31/01/2025,5279,Social,,Electronics,1,0,0,0,
+270,27/03/2025,5655,Organic,Tablet,Sports,0,1,0,0,3499
+271,07/04/2025,5718,Paid Ads,Mobile,Electronics,1,1,0,0,3499
+272,26/12/2024,6142,Email,,,1,1,0,0,1299
+273,12/12/2024,5272,,,Fashion,1,1,0,0,1299
+274,06/11/2024,7173,Email,,Beauty,0,1,0,1,
+275,14/12/2024,8912,Paid Ads,Tablet,Fashion,1,0,0,0,2499
+276,07/06/2025,5903,Organic,Desktop,Fashion,1,0,1,0,2499
+277,01/11/2024,8492,Email,Desktop,Beauty,1,0,0,0,0
+278,27/10/2024,8938,Email,Desktop,Beauty,0,1,0,0,2499
+279,12/10/2024,8365,Referral,Mobile,Beauty,1,0,0,0,2499
+280,29/11/2024,7392,Social,Tablet,Beauty,1,0,0,0,1299
+281,20/06/2025,5006,Organic,Desktop,Sports,1,0,0,,0
+282,10/04/2025,6302,Organic,Tablet,Sports,1,0,,0,799
+283,08/01/2025,5015,Paid Ads,,Fashion,0,,0,0,0
+284,01/03/2025,5942,Email,Tablet,,1,1,,0,
+285,17/11/2024,8969,Paid Ads,Tablet,Sports,1,1,0,0,1999
+286,17/03/2025,6935,Social,Mobile,Fashion,1,0,0,0,2499
+287,21/02/2025,8381,Social,Mobile,,,0,0,0,
+288,16/02/2025,8905,Referral,Desktop,,1,1,0,0,799
+289,24/12/2024,5937,Paid Ads,Mobile,,1,1,,1,799
+290,19/04/2025,5445,Social,Mobile,Sports,1,0,1,1,1999
+291,10/05/2025,5573,Referral,,,1,0,0,0,1999
+292,06/10/2024,5067,Social,,Fashion,1,0,0,0,
+293,02/04/2025,8611,Organic,Tablet,Fashion,1,1,0,0,1299
+294,29/04/2025,6883,Organic,Desktop,Fashion,1,1,0,0,
+295,14/02/2025,6839,Referral,Desktop,Sports,1,1,0,0,799
+296,08/10/2024,6590,Paid Ads,,Home & Kitchen,1,0,0,1,799
+297,03/06/2025,7502,Organic,Desktop,Home & Kitchen,0,0,0,0,3499
+298,04/03/2025,5230,Paid Ads,Mobile,Beauty,1,0,0,0,2499
+299,25/05/2025,6298,Referral,Tablet,Home & Kitchen,,0,0,0,1999
+300,14/11/2024,8419,,Tablet,,1,0,0,1,799
+301,02/11/2024,8745,,Tablet,Sports,1,0,0,1,2499
+302,11/04/2025,5047,Email,Desktop,,1,1,,0,799
+303,01/05/2025,7765,Organic,Tablet,Home & Kitchen,1,1,1,1,2499
+304,03/10/2024,7936,Referral,Mobile,Home & Kitchen,1,0,1,0,1999
+305,25/04/2025,7016,Email,Mobile,,1,0,0,0,3499
+306,26/04/2025,5505,Paid Ads,,Fashion,0,1,1,0,0
+307,17/11/2024,5710,Organic,,Sports,1,0,0,,1999
+308,14/06/2025,6215,Referral,Tablet,Fashion,1,0,0,0,0
+309,27/12/2024,7788,Organic,Desktop,,1,0,1,0,3499
+310,25/10/2024,8527,Paid Ads,Tablet,Fashion,1,0,,1,3499
+311,16/01/2025,8051,Email,Tablet,Electronics,1,0,1,0,1299
+312,25/12/2024,7366,Social,Desktop,Fashion,1,,0,0,799
+313,29/03/2025,5589,Paid Ads,Mobile,Beauty,1,0,1,0,1299
+314,04/12/2024,5175,,Desktop,Sports,0,0,0,0,0
+315,12/02/2025,8126,Social,Tablet,Sports,1,0,0,0,0
+316,25/03/2025,8950,,Mobile,Beauty,0,0,1,0,1999
+317,09/04/2025,5367,Social,Tablet,Electronics,1,1,0,0,799
+318,19/02/2025,7852,,Desktop,,1,0,0,0,2499
+319,31/01/2025,5885,,,Beauty,1,1,0,0,1999
+320,04/03/2025,5095,Social,Mobile,Sports,1,0,0,1,1999
+321,10/01/2025,5860,Paid Ads,Tablet,Electronics,1,0,0,1,0
+322,25/04/2025,8303,Email,,Beauty,,0,0,0,1999
+323,23/06/2025,7389,Paid Ads,Tablet,Electronics,1,0,0,0,
+324,24/12/2024,5944,Social,Mobile,,0,1,0,0,
+325,17/11/2024,8116,Referral,,,1,0,0,,1299
+326,16/06/2025,7489,Paid Ads,Tablet,,1,0,0,1,3499
+327,16/10/2024,7493,Email,Tablet,Beauty,1,0,0,0,799
+328,21/11/2024,8092,Organic,Desktop,,1,1,0,1,0
+329,21/03/2025,6052,Paid Ads,,Beauty,1,0,0,,799
+330,21/12/2024,5614,Referral,Tablet,Home & Kitchen,1,1,0,0,3499
+331,11/11/2024,6622,Referral,,,1,0,0,0,3499
+332,15/11/2024,7074,,Mobile,,1,,0,0,1999
+333,14/12/2024,5632,Email,Desktop,Beauty,1,,1,0,1299
+334,16/10/2024,5677,Organic,Mobile,Electronics,1,0,0,0,1299
+335,05/02/2025,6983,Paid Ads,Mobile,Fashion,1,1,0,0,799
+336,03/10/2024,7281,Email,Desktop,,1,0,0,0,
+337,14/03/2025,6962,,Desktop,,1,1,0,0,2499
+338,24/01/2025,7915,Referral,Desktop,,0,0,,0,3499
+339,10/11/2024,6532,,Tablet,Electronics,,0,0,0,
+340,09/06/2025,6714,Referral,Mobile,Electronics,1,0,,0,0
+341,17/06/2025,8872,Social,,Home & Kitchen,0,0,1,0,799
+342,02/03/2025,7418,Referral,Mobile,Beauty,0,1,,1,3499
+343,21/02/2025,6132,Paid Ads,Mobile,Beauty,1,1,0,,2499
+344,08/05/2025,5734,,Tablet,,1,0,,0,
+345,18/11/2024,7385,Organic,Tablet,,1,0,0,0,799
+346,22/10/2024,7341,Organic,,Fashion,1,0,1,1,799
+347,17/01/2025,6003,Referral,Desktop,Home & Kitchen,1,1,0,0,
+348,28/11/2024,7004,Referral,Desktop,,1,0,0,0,
+349,20/11/2024,7163,Organic,Tablet,Electronics,1,1,1,1,799
+350,15/02/2025,6583,Organic,Desktop,Beauty,0,1,0,,
+351,19/06/2025,6136,Social,,Sports,1,0,0,1,2499
+352,27/05/2025,6985,Referral,Desktop,,1,1,0,0,2499
+353,10/05/2025,7512,Organic,Mobile,Home & Kitchen,1,0,0,0,0
+354,23/04/2025,6059,Social,Mobile,Sports,1,1,0,1,0
+355,24/06/2025,7472,Paid Ads,,Sports,1,0,0,0,799
+356,07/01/2025,5413,Social,Desktop,Sports,1,0,0,0,0
+357,20/06/2025,7904,,Desktop,,1,0,0,0,0
+358,03/06/2025,5598,,Desktop,Fashion,0,0,0,0,2499
+359,08/01/2025,8815,Social,Desktop,,1,0,0,1,2499
+360,08/03/2025,5930,Paid Ads,,Home & Kitchen,1,1,,0,2499
+361,19/02/2025,7484,Referral,Desktop,,1,0,0,0,1999
+362,18/11/2024,5080,Organic,Tablet,Fashion,1,1,1,0,
+363,18/05/2025,8947,Paid Ads,Desktop,Home & Kitchen,1,,1,0,2499
+364,16/01/2025,6886,Referral,Tablet,Sports,1,1,0,0,799
+365,06/06/2025,7439,Referral,Mobile,,1,,1,,1999
+366,23/01/2025,7194,Email,Tablet,,0,0,,0,2499
+367,29/11/2024,6202,,Mobile,Sports,1,1,1,0,2499
+368,10/05/2025,8378,Email,Desktop,Fashion,1,0,0,0,799
+369,18/05/2025,8006,Paid Ads,Tablet,Home & Kitchen,1,0,0,0,799
+370,28/12/2024,7452,Paid Ads,Tablet,Home & Kitchen,1,0,0,0,0
+371,01/11/2024,8200,Referral,Tablet,,1,1,0,0,
+372,30/10/2024,5917,Referral,Tablet,Fashion,1,0,0,1,0
+373,09/12/2024,6327,Social,,,1,0,,0,0
+374,19/06/2025,5231,Social,,Electronics,1,0,1,0,3499
+375,27/03/2025,6759,Email,,Sports,1,0,1,0,3499
+376,07/01/2025,5495,Email,Tablet,,1,0,0,0,1999
+377,05/02/2025,8500,Organic,Desktop,Beauty,,,0,1,799
+378,04/11/2024,7988,Social,Tablet,Fashion,1,0,1,0,799
+379,22/06/2025,6367,Organic,Mobile,Beauty,0,1,0,0,1299
+380,09/01/2025,5294,Paid Ads,Tablet,Sports,1,0,,0,2499
+381,14/05/2025,7180,Referral,Desktop,,1,1,0,1,1299
+382,29/04/2025,7706,Referral,Desktop,,,,1,0,1999
+383,26/01/2025,8199,Referral,Tablet,Beauty,1,0,1,0,3499
+384,25/03/2025,8663,,Mobile,Electronics,1,1,1,1,2499
+385,14/01/2025,7949,Paid Ads,Desktop,Electronics,1,1,0,0,799
+386,23/11/2024,5450,Paid Ads,Tablet,Beauty,1,0,,,1999
+387,31/12/2024,5162,Social,Tablet,Fashion,0,,,0,0
+388,09/10/2024,7955,Referral,Desktop,Home & Kitchen,1,0,0,0,799
+389,02/06/2025,7959,Social,Tablet,Home & Kitchen,1,1,0,0,1299
+390,23/06/2025,8668,Social,Tablet,Electronics,,1,0,0,1999
+391,01/11/2024,7668,,Tablet,Sports,1,0,1,0,799
+392,21/10/2024,6967,Paid Ads,Mobile,Beauty,1,,0,,799
+393,26/11/2024,5350,Email,,,0,1,0,0,2499
+394,03/01/2025,5841,Paid Ads,Desktop,Fashion,1,0,0,0,1999
+395,11/01/2025,6574,Referral,Desktop,Sports,1,0,,0,799
+396,11/03/2025,8294,Email,,Sports,1,1,0,0,3499
+397,10/05/2025,5005,Referral,Desktop,,1,1,,0,1299
+398,11/10/2024,5961,Email,Mobile,Beauty,1,1,1,0,0
+399,01/06/2025,7142,Social,Tablet,Beauty,0,0,0,0,3499
+400,05/02/2025,5839,Referral,,,,1,0,0,0
+401,05/03/2025,5688,Social,Desktop,,0,,1,0,
+402,26/01/2025,5201,Email,,,1,0,0,1,3499
+403,26/12/2024,7498,Referral,Mobile,Electronics,0,0,0,1,3499
+404,17/05/2025,6535,Referral,Desktop,Electronics,1,0,1,0,3499
+405,10/05/2025,7893,Social,,Sports,1,1,0,0,
+406,03/11/2024,6619,Social,,,0,,0,0,799
+407,02/06/2025,6724,Paid Ads,Tablet,Sports,1,0,,0,
+408,02/02/2025,5704,Paid Ads,,Home & Kitchen,1,1,0,0,
+409,16/05/2025,8850,Organic,,Fashion,0,0,0,1,799
+410,26/12/2024,8944,,Mobile,Electronics,1,0,,0,3499
+411,15/10/2024,6606,,Tablet,,1,0,0,0,1299
+412,13/03/2025,6273,Email,Desktop,Home & Kitchen,1,0,0,,799
+413,01/06/2025,8462,Referral,Mobile,,1,1,0,0,
+414,07/04/2025,5736,Social,Tablet,,1,0,0,0,3499
+415,11/05/2025,8479,Referral,Desktop,Electronics,1,0,0,0,3499
+416,09/03/2025,6509,Referral,Desktop,,,0,,1,3499
+417,11/11/2024,6959,,Mobile,Beauty,1,1,0,0,
+418,11/02/2025,8722,Paid Ads,Mobile,Home & Kitchen,1,1,0,0,1999
+419,05/11/2024,7115,,Tablet,Sports,0,,0,0,
+420,03/05/2025,7777,Referral,Mobile,Home & Kitchen,1,,,0,2499
+421,12/05/2025,5727,Paid Ads,Tablet,Sports,1,0,1,0,1299
+422,07/06/2025,5528,,Tablet,Electronics,0,1,1,0,2499
+423,02/11/2024,6854,Email,Desktop,Home & Kitchen,1,1,0,0,2499
+424,24/05/2025,7498,Referral,,,0,0,0,0,0
+425,28/10/2024,5425,,Desktop,Fashion,1,1,0,0,3499
+426,03/05/2025,7762,Referral,Desktop,,1,1,0,0,799
+427,07/12/2024,8798,Paid Ads,,Fashion,1,1,0,0,1299
+428,18/01/2025,5158,Email,Tablet,Fashion,1,0,0,0,3499
+429,27/11/2024,5585,,Mobile,,1,0,0,1,1999
+430,15/01/2025,6171,Paid Ads,Mobile,Fashion,1,0,1,0,0
+431,15/01/2025,6748,Email,Tablet,Home & Kitchen,0,1,0,,2499
+432,08/05/2025,8598,Social,Tablet,Home & Kitchen,1,,0,1,799
+433,25/01/2025,7571,Email,,Electronics,0,0,1,,2499
+434,22/01/2025,8298,,Tablet,Electronics,0,1,0,1,2499
+435,10/11/2024,6963,Organic,Tablet,Beauty,1,0,0,0,
+436,24/05/2025,5901,Email,Desktop,Home & Kitchen,1,1,0,0,799
+437,08/10/2024,6457,,Mobile,,1,1,0,0,0
+438,05/01/2025,8420,Referral,Tablet,Sports,1,0,0,0,799
+439,06/12/2024,5277,,,Beauty,0,0,1,0,1299
+440,29/05/2025,6999,Organic,,,1,1,0,,1999
+441,17/02/2025,8202,Email,,Electronics,0,1,0,1,799
+442,09/03/2025,8210,Organic,Mobile,,1,1,0,,1299
+443,20/06/2025,8039,,,Electronics,1,1,0,0,1299
+444,22/12/2024,7523,,Desktop,,,1,0,0,2499
+445,11/06/2025,7726,Paid Ads,Tablet,Fashion,0,0,1,1,2499
+446,29/12/2024,6600,Social,Tablet,,1,1,1,0,0
+447,27/06/2025,7676,Social,Tablet,,1,,0,1,1299
+448,05/04/2025,7067,Organic,Tablet,Beauty,1,0,0,0,1999
+449,03/12/2024,5569,Social,Desktop,Fashion,1,1,0,0,1299
+450,11/02/2025,8506,Paid Ads,Tablet,Fashion,1,0,1,0,
+451,28/02/2025,7693,,,Fashion,1,1,0,1,799
+452,25/04/2025,8163,Social,Tablet,Beauty,1,,,0,
+453,13/11/2024,5409,Referral,Tablet,,1,0,0,0,
+454,10/06/2025,6870,,,Home & Kitchen,1,,0,0,1999
+455,29/05/2025,5350,,Tablet,Sports,1,0,0,,0
+456,24/04/2025,5939,Organic,Mobile,Fashion,1,0,0,1,2499
+457,10/04/2025,5948,,Desktop,,1,1,1,0,799
+458,04/03/2025,7511,,Tablet,Beauty,1,1,1,0,799
+459,18/03/2025,6440,Social,Desktop,Electronics,1,0,1,0,0
+460,06/06/2025,8590,Social,,,,1,1,0,
+461,31/03/2025,6019,Organic,,,0,0,0,1,2499
+462,20/12/2024,5962,Organic,Desktop,,1,1,1,0,0
+463,15/05/2025,7371,Social,Mobile,Home & Kitchen,1,0,0,0,1999
+464,27/04/2025,7641,Paid Ads,,Fashion,1,1,0,1,2499
+465,10/02/2025,5456,,,Electronics,0,1,0,0,1999
+466,23/12/2024,8107,Social,Mobile,,1,1,1,0,0
+467,25/11/2024,5220,Email,Desktop,Beauty,0,0,0,1,0
+468,18/03/2025,8002,Paid Ads,,Beauty,1,0,0,0,3499
+469,03/06/2025,7323,,,Home & Kitchen,1,1,0,,0
+470,13/03/2025,8899,Referral,Tablet,,0,0,0,0,2499
+471,09/11/2024,6149,Organic,Desktop,Fashion,1,0,0,0,0
+472,27/06/2025,5306,Organic,Desktop,Fashion,1,0,0,0,1999
+473,08/03/2025,7212,Referral,,,1,0,0,0,799
+474,26/05/2025,7232,Paid Ads,,Beauty,1,,0,0,1999
+475,19/10/2024,6019,Referral,Tablet,Electronics,1,1,1,0,799
+476,07/11/2024,7196,Organic,,Electronics,0,1,,0,799
+477,20/06/2025,7736,Paid Ads,Mobile,Fashion,0,0,0,1,3499
+478,16/06/2025,5277,,,Electronics,1,0,0,0,1299
+479,24/01/2025,7310,,Desktop,Home & Kitchen,0,0,1,0,1299
+480,23/12/2024,7194,Referral,Desktop,,1,0,,0,0
+481,16/11/2024,7171,Paid Ads,Mobile,Electronics,1,1,1,,1999
+482,12/03/2025,8798,,Tablet,,1,0,,0,0
+483,09/05/2025,6630,Organic,Desktop,,1,0,0,0,3499
+484,27/01/2025,7169,Paid Ads,,,1,1,0,0,1999
+485,21/02/2025,7806,Referral,Desktop,,1,0,0,0,
+486,25/03/2025,7468,Organic,Desktop,Home & Kitchen,1,0,,0,1999
+487,29/06/2025,6997,Email,Tablet,Home & Kitchen,1,0,0,0,0
+488,22/02/2025,6510,Paid Ads,,,1,0,1,0,
+489,30/05/2025,8764,Social,Mobile,,1,,1,0,3499
+490,31/12/2024,8078,Referral,Tablet,,0,0,1,0,799
+491,13/10/2024,6864,Referral,Mobile,Sports,0,0,1,0,1999
+492,14/10/2024,7642,Email,Mobile,Sports,1,1,1,0,0
+493,03/10/2024,6171,Organic,,Electronics,1,0,1,0,799
+494,09/10/2024,6693,,Tablet,,1,0,0,0,2499
+495,03/05/2025,6736,Email,Desktop,Sports,0,0,0,0,1999
+496,14/05/2025,8295,,Tablet,Home & Kitchen,1,0,0,1,1999
+497,28/03/2025,5236,,Desktop,Fashion,1,1,1,,3499
+498,05/01/2025,6906,Organic,Mobile,Sports,1,0,0,0,2499
+499,24/05/2025,8121,,,Fashion,1,0,0,0,3499
+500,27/01/2025,6075,Organic,Tablet,,1,,1,0,2499
+501,20/03/2025,6875,Paid Ads,Mobile,Sports,1,0,1,0,1999
+502,08/12/2024,7634,Organic,Tablet,Fashion,1,1,0,1,
+503,13/10/2024,7406,Email,Desktop,,1,0,0,0,1999
+504,19/04/2025,5440,Email,Tablet,,1,0,0,0,2499
+505,20/02/2025,6075,,Mobile,Electronics,0,0,1,0,0
+506,23/03/2025,7024,Organic,Desktop,Home & Kitchen,0,1,0,1,
+507,21/01/2025,6698,,Tablet,Beauty,1,1,1,,3499
+508,22/11/2024,5883,,Tablet,,0,0,0,0,1999
+509,10/03/2025,7384,Paid Ads,Desktop,Beauty,1,0,0,1,1299
+510,22/12/2024,6396,Organic,,,1,,1,,2499
+511,02/11/2024,6513,Social,Mobile,Beauty,1,0,,0,3499
+512,20/03/2025,6351,Organic,Desktop,Electronics,1,0,1,0,1999
+513,11/10/2024,7343,Social,Tablet,Beauty,1,0,0,0,0
+514,28/12/2024,8472,Email,Mobile,Beauty,,1,0,,799
+515,29/11/2024,5541,Organic,Desktop,Electronics,1,1,1,,1999
+516,04/04/2025,7747,Paid Ads,,Fashion,0,,0,0,3499
+517,23/12/2024,6696,Paid Ads,,,0,0,1,0,
+518,27/11/2024,5751,,Mobile,,1,0,0,0,799
+519,01/03/2025,8435,Social,Tablet,Home & Kitchen,1,0,1,1,2499
+520,10/01/2025,8048,Social,,Electronics,0,1,0,0,1299
+521,09/01/2025,8368,Organic,Desktop,Electronics,1,0,1,0,3499
+522,23/04/2025,7228,Referral,,,1,0,1,,799
+523,28/03/2025,7737,Referral,Tablet,Home & Kitchen,1,0,0,0,0
+524,25/04/2025,6008,,,,1,0,1,0,
+525,22/04/2025,6982,Organic,,Sports,1,,,0,2499
+526,04/03/2025,8766,,Mobile,Electronics,1,0,0,1,
+527,16/02/2025,7571,Organic,,Home & Kitchen,1,1,0,0,1299
+528,30/11/2024,8361,Paid Ads,Mobile,Sports,1,0,0,0,2499
+529,22/06/2025,5807,,Desktop,Electronics,1,1,1,0,1299
+530,29/10/2024,8373,Email,,,1,,0,,3499
+531,21/05/2025,8876,Referral,,,0,0,0,,1999
+532,25/01/2025,7405,Paid Ads,Desktop,,1,0,1,0,2499
+533,09/12/2024,7766,Social,,Beauty,1,0,,,3499
+534,01/06/2025,5150,Email,Desktop,Electronics,1,0,1,0,1299
+535,18/01/2025,6559,Organic,Tablet,Fashion,1,1,1,0,3499
+536,06/03/2025,8042,Referral,,Fashion,1,0,0,0,799
+537,12/10/2024,6822,Referral,Mobile,,1,1,0,1,
+538,21/05/2025,5505,Paid Ads,Tablet,Beauty,1,0,,1,2499
+539,16/06/2025,8516,Paid Ads,Mobile,,1,0,0,0,0
+540,03/10/2024,7193,,Mobile,Fashion,1,0,0,,799
+541,19/04/2025,7723,Referral,Desktop,Sports,1,1,,0,
+542,05/06/2025,5171,,Mobile,Electronics,1,0,1,1,3499
+543,09/01/2025,8311,Email,Mobile,,1,,0,1,3499
+544,16/02/2025,7144,,Desktop,Beauty,0,1,0,0,0
+545,23/04/2025,5906,Social,,,1,0,1,0,2499
+546,14/12/2024,5104,,,Home & Kitchen,1,0,1,,3499
+547,07/03/2025,5838,Social,,,1,0,0,0,2499
+548,10/10/2024,7291,Referral,,Beauty,0,0,1,0,799
+549,06/01/2025,5584,Paid Ads,Desktop,Home & Kitchen,1,0,1,0,1999
+550,10/01/2025,8623,Referral,,,0,1,1,0,799
+551,28/05/2025,5310,Referral,Tablet,Electronics,1,0,0,,
+552,16/03/2025,7255,,,Fashion,0,0,0,0,2499
+553,01/12/2024,8942,,Mobile,Sports,1,1,0,,2499
+554,28/03/2025,8561,Referral,Mobile,,1,0,0,0,0
+555,05/10/2024,8817,,Tablet,,1,0,0,0,
+556,25/03/2025,6852,Paid Ads,Tablet,Sports,1,1,1,0,1999
+557,13/04/2025,8012,Paid Ads,Desktop,Sports,1,0,1,0,0
+558,22/01/2025,6232,Social,,,1,0,0,0,799
+559,25/05/2025,7809,Referral,Desktop,,1,0,0,0,
+560,05/03/2025,6720,,,Electronics,0,1,0,0,799
+561,05/10/2024,7054,Email,Desktop,Electronics,1,1,0,0,1999
+562,16/02/2025,8691,Organic,,,0,1,1,0,3499
+563,29/01/2025,6124,,Tablet,Sports,1,0,0,0,1299
+564,16/01/2025,5644,,Tablet,,0,0,0,1,0
+565,17/05/2025,8322,Organic,Tablet,Sports,1,,0,0,
+566,28/06/2025,7666,,,Sports,1,1,0,0,
+567,22/05/2025,8084,Social,Desktop,Sports,1,0,0,0,1299
+568,26/05/2025,8677,,,Fashion,1,1,0,0,3499
+569,17/06/2025,7353,Referral,,Home & Kitchen,0,1,,0,799
+570,29/11/2024,6149,,Tablet,Beauty,1,0,0,0,1999
+571,13/01/2025,8821,Email,Mobile,,1,,0,0,3499
+572,19/02/2025,5644,,Desktop,,0,0,,0,1999
+573,09/06/2025,7981,Organic,Desktop,,,0,1,,3499
+574,03/04/2025,6025,Paid Ads,Mobile,Electronics,1,1,0,0,
+575,05/04/2025,5260,Organic,Desktop,Sports,,1,0,,3499
+576,28/12/2024,8406,Social,Desktop,Fashion,1,0,1,0,2499
+577,21/03/2025,5498,,Tablet,Sports,1,0,0,0,3499
+578,31/12/2024,5093,Referral,Desktop,,0,1,0,1,2499
+579,24/01/2025,5904,Paid Ads,Mobile,,1,0,0,0,799
+580,03/10/2024,8755,Social,,Home & Kitchen,0,0,0,,3499
+581,14/01/2025,8044,Social,,,1,1,0,0,1999
+582,16/05/2025,5414,Email,,Fashion,1,1,0,0,799
+583,27/01/2025,8695,,Desktop,Electronics,1,,1,0,3499
+584,06/05/2025,5552,Social,Desktop,Beauty,1,0,0,,1999
+585,14/05/2025,5621,,,Beauty,1,0,0,0,3499
+586,31/12/2024,6581,Social,Tablet,Fashion,1,0,0,0,3499
+587,02/03/2025,8566,Organic,,,1,0,0,0,3499
+588,25/11/2024,8544,Social,,Sports,1,,0,0,
+589,29/01/2025,5119,Email,Desktop,,1,1,0,0,2499
+590,16/12/2024,8798,Referral,Mobile,Electronics,1,0,1,0,1299
+591,02/12/2024,6153,Organic,Mobile,Home & Kitchen,1,1,0,0,1999
+592,19/02/2025,6838,Referral,Mobile,Fashion,1,1,0,1,2499
+593,27/11/2024,6164,Paid Ads,Tablet,Home & Kitchen,1,0,0,0,1299
+594,11/11/2024,8563,,,,1,1,0,0,3499
+595,08/05/2025,6691,,Desktop,Home & Kitchen,0,0,0,0,799
+596,09/04/2025,6867,,,Beauty,1,0,0,0,0
+597,14/10/2024,8333,Organic,Mobile,Sports,1,0,0,0,3499
+598,12/02/2025,5654,Paid Ads,,Sports,1,0,0,0,1299
+599,17/01/2025,5611,Referral,,,1,0,0,0,
+600,14/04/2025,6475,Referral,Mobile,,1,0,1,0,
+601,13/06/2025,6614,Email,Desktop,Electronics,1,0,0,0,
+602,08/10/2024,5231,Organic,,Fashion,1,1,0,0,799
+603,23/01/2025,6567,Social,,,1,0,,0,
+604,05/02/2025,7692,,,Sports,1,0,0,0,2499
+605,21/10/2024,8421,Paid Ads,Mobile,Sports,1,,0,0,1299
+606,18/06/2025,5770,Referral,Tablet,Beauty,,0,0,0,0
+607,05/02/2025,7648,Paid Ads,Mobile,Electronics,0,1,1,0,799
+608,27/04/2025,5160,Email,Tablet,,1,0,,0,2499
+609,08/04/2025,7189,Referral,Tablet,,1,,,0,1999
+610,20/10/2024,8709,Email,Tablet,,1,0,0,1,1999
+611,23/06/2025,6955,Paid Ads,Tablet,Fashion,1,1,0,1,0
+612,22/11/2024,6462,Email,Desktop,Fashion,1,0,1,0,1299
+613,20/12/2024,8218,Paid Ads,,Home & Kitchen,1,0,0,,799
+614,17/12/2024,6996,Email,,Beauty,1,1,1,0,3499
+615,07/10/2024,5586,Referral,Desktop,Home & Kitchen,1,1,0,0,
+616,14/05/2025,8274,Social,Desktop,Fashion,0,1,,0,
+617,29/11/2024,8516,,Mobile,,1,0,1,0,
+618,17/02/2025,6332,,,Beauty,1,0,,0,0
+619,25/01/2025,6452,Referral,Desktop,Fashion,1,,0,0,1299
+620,09/05/2025,7388,,Desktop,,1,0,0,0,3499
+621,28/06/2025,6376,Organic,Mobile,,0,0,0,0,
+622,26/02/2025,8316,Social,,Beauty,1,0,0,0,3499
+623,06/05/2025,6551,Paid Ads,Desktop,,1,0,0,0,1299
+624,26/12/2024,7466,Email,Tablet,Electronics,,0,0,0,2499
+625,12/05/2025,6941,Paid Ads,Tablet,Beauty,1,0,0,1,1999
+626,24/04/2025,6700,,Desktop,Home & Kitchen,1,1,1,0,799
+627,13/02/2025,5029,Organic,Mobile,,1,1,1,0,0
+628,10/11/2024,6408,,Desktop,,0,0,0,0,
+629,06/10/2024,6222,,Desktop,Beauty,0,1,0,,799
+630,26/04/2025,8928,Email,Tablet,,1,1,0,0,
+631,01/11/2024,5356,Social,Desktop,,1,,0,1,0
+632,18/11/2024,8990,Email,Tablet,Home & Kitchen,1,0,,0,1999
+633,19/06/2025,7894,Organic,Desktop,Beauty,1,1,,0,2499
+634,03/01/2025,8739,Organic,Desktop,Sports,1,0,1,1,0
+635,04/04/2025,8136,Organic,Mobile,Fashion,0,1,0,1,799
+636,27/10/2024,8162,Paid Ads,Desktop,Fashion,1,,0,0,0
+637,22/06/2025,7484,Referral,Desktop,Home & Kitchen,1,1,0,0,1299
+638,17/11/2024,5195,Social,,Sports,1,0,0,0,3499
+639,01/12/2024,5621,Referral,,,0,1,0,0,2499
+640,30/01/2025,6930,Referral,Mobile,Beauty,1,0,1,0,3499
+641,25/04/2025,6170,,Tablet,Beauty,1,1,0,1,1299
+642,30/04/2025,5543,Referral,,,1,0,0,0,
+643,20/04/2025,8666,Social,Mobile,Electronics,1,0,0,1,3499
+644,13/03/2025,7882,Social,Desktop,,1,0,0,0,1999
+645,22/11/2024,6140,Paid Ads,,Fashion,1,1,0,0,1299
+646,31/12/2024,7123,Paid Ads,Desktop,,1,1,0,1,0
+647,14/04/2025,5781,Social,Tablet,Home & Kitchen,0,0,,0,2499
+648,21/05/2025,7733,,Tablet,Sports,1,0,1,1,1299
+649,23/12/2024,5529,,Desktop,Fashion,1,0,0,1,1299
+650,11/06/2025,7147,Social,,Beauty,1,,0,0,
+651,05/04/2025,8702,Referral,Tablet,,0,1,0,0,0
+652,11/01/2025,7240,Organic,Tablet,,1,1,,0,0
+653,06/05/2025,8288,Referral,Mobile,Home & Kitchen,1,0,0,0,2499
+654,13/02/2025,7594,,Desktop,Fashion,1,,,0,1299
+655,02/01/2025,6219,Paid Ads,,,1,1,0,0,3499
+656,15/06/2025,8969,Organic,,Fashion,1,0,,,0
+657,21/11/2024,5031,Referral,Mobile,Home & Kitchen,0,1,,0,3499
+658,17/11/2024,7037,Social,,,0,0,0,1,1999
+659,11/04/2025,8180,,Tablet,,1,0,0,0,0
+660,12/06/2025,5888,Paid Ads,Desktop,Home & Kitchen,1,1,0,0,1299
+661,31/12/2024,6890,Referral,Desktop,,1,0,0,1,3499
+662,12/10/2024,5587,Organic,,,1,1,0,0,3499
+663,09/01/2025,5597,Email,Desktop,Sports,1,1,1,0,2499
+664,16/02/2025,7540,Email,,Beauty,1,0,1,0,3499
+665,18/03/2025,6515,Paid Ads,Desktop,Sports,1,0,,0,3499
+666,13/03/2025,6721,Organic,Mobile,Electronics,0,0,1,1,2499
+667,09/03/2025,7584,Social,Desktop,Electronics,0,1,0,0,
+668,07/06/2025,7545,Referral,Mobile,,1,0,1,0,3499
+669,13/10/2024,8137,Organic,Mobile,Sports,1,0,0,0,3499
+670,06/04/2025,7830,Paid Ads,,Fashion,1,1,0,0,3499
+671,26/06/2025,6244,Social,Tablet,,1,1,0,0,2499
+672,23/01/2025,6391,Email,Mobile,Fashion,1,0,1,0,1999
+673,06/01/2025,7735,Social,Desktop,Sports,1,1,0,0,2499
+674,14/03/2025,7017,Social,Desktop,Beauty,,1,0,0,1999
+675,23/12/2024,7207,Organic,Mobile,Fashion,1,0,0,0,0
+676,08/05/2025,7121,Organic,Tablet,Home & Kitchen,1,0,,0,1299
+677,17/02/2025,6133,Email,,Sports,1,1,0,1,2499
+678,18/03/2025,5367,Referral,Tablet,Electronics,0,0,0,0,3499
+679,15/03/2025,6075,,,,0,0,0,0,0
+680,25/10/2024,5443,,,,1,0,0,0,0
+681,11/10/2024,6816,Social,Tablet,Fashion,0,0,1,,1999
+682,06/03/2025,8229,Email,,Electronics,,0,,,3499
+683,19/11/2024,5141,Organic,,Home & Kitchen,1,1,0,0,799
+684,21/11/2024,5126,,Mobile,Home & Kitchen,1,0,0,0,
+685,29/03/2025,5107,Referral,Desktop,Beauty,1,0,0,1,1999
+686,19/12/2024,8359,Social,,Beauty,1,0,1,0,3499
+687,28/03/2025,5632,Referral,Tablet,Home & Kitchen,1,0,1,0,
+688,11/06/2025,5946,Paid Ads,Mobile,,0,1,0,,1299
+689,13/03/2025,5423,Paid Ads,,Beauty,,,1,,3499
+690,08/10/2024,8745,Social,,,1,1,0,0,799
+691,18/02/2025,6822,Paid Ads,Desktop,,,1,0,0,2499
+692,18/10/2024,7866,Organic,,Beauty,0,0,,0,
+693,05/05/2025,6747,Email,,Sports,1,0,0,,799
+694,21/06/2025,7207,Social,Tablet,Sports,1,0,0,0,3499
+695,26/01/2025,8212,Organic,,Home & Kitchen,1,0,0,0,2499
+696,30/04/2025,7577,Organic,Mobile,,1,1,0,0,1999
+697,06/12/2024,8477,Paid Ads,Mobile,Sports,1,0,0,1,1999
+698,08/05/2025,8945,Paid Ads,Tablet,Sports,1,,0,0,2499
+699,23/10/2024,5839,,Tablet,Fashion,1,1,0,1,1999
+700,22/12/2024,6749,Paid Ads,Tablet,Sports,1,0,0,1,1999
+701,22/06/2025,7923,Email,,Sports,1,1,0,0,1999
+702,31/01/2025,8611,Social,Desktop,Sports,1,0,1,1,0
+703,13/11/2024,5327,Social,Desktop,Sports,1,0,1,,0
+704,13/06/2025,8717,Email,,Fashion,1,,1,0,1299
+705,07/11/2024,6608,Paid Ads,Tablet,Beauty,1,0,1,0,0
+706,16/03/2025,5550,,Desktop,,1,1,1,0,1999
+707,06/06/2025,6410,Organic,Tablet,Home & Kitchen,1,1,0,,0
+708,11/03/2025,7566,Referral,Tablet,Sports,1,0,0,1,1999
+709,13/02/2025,6531,,Desktop,,0,1,1,0,1999
+710,01/12/2024,7393,Email,Tablet,Beauty,0,1,0,0,1299
+711,24/05/2025,6895,Paid Ads,Desktop,Sports,1,1,,0,799
+712,17/12/2024,7680,Email,,Sports,1,0,0,0,2499
+713,02/04/2025,6936,Paid Ads,Tablet,Fashion,0,0,0,0,1299
+714,17/01/2025,8701,Email,,Home & Kitchen,1,0,1,0,1299
+715,20/04/2025,6036,Email,Mobile,,1,0,0,0,0
+716,22/02/2025,8546,,Tablet,Electronics,1,0,0,0,799
+717,28/01/2025,8537,Paid Ads,,Sports,1,0,0,0,3499
+718,13/03/2025,8466,Social,Desktop,Beauty,1,1,0,0,799
+719,31/10/2024,8175,Social,Desktop,Electronics,1,0,0,0,799
+720,12/10/2024,5113,,Tablet,Beauty,1,0,0,0,799
+721,22/05/2025,5441,,Desktop,,1,0,0,0,3499
+722,13/06/2025,7567,Referral,Tablet,,1,1,1,0,2499
+723,23/02/2025,5855,Social,,,1,0,,0,1999
+724,10/12/2024,8231,Email,Desktop,Beauty,1,1,1,,3499
+725,25/03/2025,7683,Organic,Desktop,Fashion,1,,0,0,1999
+726,19/02/2025,7036,Social,Mobile,Home & Kitchen,1,0,0,0,3499
+727,06/02/2025,8635,Organic,Desktop,Beauty,0,0,1,0,799
+728,06/02/2025,8451,Referral,,Home & Kitchen,1,0,1,0,1999
+729,18/12/2024,8003,Social,Tablet,Fashion,0,1,0,0,0
+730,26/12/2024,8875,Organic,,Home & Kitchen,,1,0,0,799
+731,21/06/2025,6300,,Desktop,Fashion,1,1,0,0,2499
+732,12/05/2025,5075,Email,Mobile,Sports,1,1,1,0,2499
+733,08/12/2024,6223,Referral,,Home & Kitchen,1,0,0,0,0
+734,12/03/2025,8149,Social,,Sports,1,0,1,0,1299
+735,08/03/2025,7664,Organic,Mobile,Sports,1,0,1,0,3499
+736,25/01/2025,7181,Social,Mobile,Electronics,1,1,0,0,1999
+737,20/03/2025,5708,Social,Desktop,Electronics,1,0,0,0,1299
+738,03/02/2025,5214,,Desktop,,1,0,0,0,1299
+739,10/05/2025,8827,Organic,Tablet,Fashion,1,0,1,0,
+740,26/02/2025,8097,,,Sports,1,0,1,1,1999
+741,25/02/2025,6496,,,Fashion,1,1,1,1,2499
+742,09/04/2025,6644,Paid Ads,Tablet,Electronics,0,0,0,0,2499
+743,29/06/2025,5839,,Mobile,Home & Kitchen,1,0,0,0,0
+744,15/06/2025,5314,,,Home & Kitchen,1,,0,0,799
+745,26/03/2025,8126,,Tablet,Fashion,1,0,0,0,2499
+746,11/03/2025,8196,Referral,,,1,1,0,1,3499
+747,27/12/2024,7952,,Desktop,Beauty,,0,,0,1999
+748,23/04/2025,8072,Paid Ads,Tablet,,1,0,0,0,0
+749,29/04/2025,8138,,Mobile,Beauty,1,0,,0,3499
+750,12/03/2025,6669,Email,Mobile,,1,0,0,1,1999
+751,09/01/2025,7153,Social,Mobile,,1,0,0,0,2499
+752,13/04/2025,6681,Social,Desktop,Home & Kitchen,1,0,1,0,1999
+753,23/04/2025,5007,Paid Ads,Mobile,Fashion,1,,0,0,
+754,09/11/2024,5880,Organic,,,1,0,0,0,3499
+755,03/12/2024,6833,,Tablet,,1,0,1,0,1999
+756,01/02/2025,7241,Referral,Mobile,Fashion,1,0,0,0,1299
+757,26/04/2025,7260,Email,Desktop,Electronics,1,1,0,0,
+758,06/01/2025,7023,Email,Tablet,Electronics,1,0,0,0,2499
+759,15/05/2025,8208,Email,Desktop,Home & Kitchen,1,0,0,0,2499
+760,18/12/2024,5540,Referral,Desktop,Fashion,,0,0,0,3499
+761,15/05/2025,5759,Email,Tablet,Home & Kitchen,1,1,0,0,
+762,29/05/2025,8990,Paid Ads,Mobile,Electronics,1,0,0,0,2499
+763,26/05/2025,6336,,Mobile,,0,0,1,0,3499
+764,08/12/2024,6773,Paid Ads,,,1,0,0,0,1999
+765,03/03/2025,8745,Referral,,,0,1,0,0,1999
+766,11/02/2025,5870,Email,Mobile,Electronics,1,1,0,1,3499
+767,25/11/2024,8927,Paid Ads,Mobile,Home & Kitchen,1,0,0,,1999
+768,14/10/2024,6883,Social,Mobile,Electronics,1,0,0,0,1299
+769,30/05/2025,5985,Social,,Fashion,1,0,0,0,0
+770,11/05/2025,5667,Organic,Desktop,,0,1,0,0,2499
+771,22/01/2025,6670,Referral,,,1,0,0,0,1299
+772,23/12/2024,8563,Referral,Tablet,,0,1,0,0,799
+773,12/12/2024,8392,Email,Desktop,Home & Kitchen,1,0,1,0,1299
+774,14/10/2024,8079,Referral,Desktop,Beauty,1,0,0,0,
+775,21/06/2025,5104,Paid Ads,Tablet,,1,0,,0,
+776,29/03/2025,7409,Paid Ads,Desktop,Electronics,1,0,0,0,1299
+777,18/10/2024,5884,Paid Ads,Mobile,Electronics,1,1,0,0,0
+778,01/06/2025,7384,Organic,Desktop,Home & Kitchen,1,0,0,0,0
+779,15/01/2025,8046,Paid Ads,,Sports,1,1,1,1,799
+780,28/02/2025,7909,Social,,Home & Kitchen,1,0,0,0,3499
+781,09/12/2024,6108,Organic,Tablet,Sports,,,0,0,
+782,16/04/2025,8149,Social,,Electronics,1,0,0,0,3499
+783,07/12/2024,6188,Organic,Desktop,Sports,1,0,0,0,1299
+784,22/06/2025,6026,Organic,Mobile,Sports,,1,0,0,1999
+785,12/04/2025,8411,,Desktop,Beauty,1,0,0,0,
+786,30/05/2025,6293,Social,Desktop,,1,1,0,1,
+787,09/02/2025,7766,Email,Desktop,Sports,1,0,1,0,2499
+788,28/12/2024,6189,Paid Ads,Tablet,,1,1,0,0,2499
+789,24/11/2024,8676,Paid Ads,Tablet,,1,1,0,0,2499
+790,18/06/2025,7107,Social,Mobile,Fashion,0,0,1,,1299
+791,06/12/2024,6134,Social,Desktop,,0,,0,0,799
+792,02/04/2025,5201,,,,1,0,0,0,3499
+793,03/12/2024,5513,Organic,Tablet,Electronics,0,1,0,0,1299
+794,20/10/2024,5446,Paid Ads,Tablet,,0,1,0,0,2499
+795,25/06/2025,5952,,Mobile,Sports,1,1,1,0,799
+796,30/03/2025,5601,Email,Desktop,,0,,0,0,2499
+797,23/10/2024,8748,Email,Desktop,Fashion,1,1,0,0,1999
+798,11/01/2025,7807,Email,Desktop,Electronics,1,,,0,1299
+799,09/03/2025,5814,Email,Desktop,,1,0,0,1,799
+800,14/12/2024,7171,Referral,,Beauty,1,1,0,0,
+801,25/12/2024,6172,Paid Ads,,Fashion,1,1,1,,3499
+802,09/04/2025,8737,Social,Desktop,Fashion,1,,1,0,1299
+803,28/06/2025,5701,Organic,Desktop,,1,0,0,0,1999
+804,23/02/2025,6420,,Mobile,Beauty,0,0,1,0,1999
+805,02/10/2024,6760,Email,,,0,0,0,0,3499
+806,13/10/2024,7453,,,,1,1,0,,3499
+807,05/03/2025,5003,Email,Tablet,Home & Kitchen,1,1,0,0,2499
+808,06/10/2024,7784,Referral,Desktop,,1,1,1,0,2499
+809,18/01/2025,8906,Paid Ads,Desktop,,1,1,1,0,1999
+810,22/02/2025,5892,Email,,Beauty,1,1,0,,
+811,05/06/2025,8928,Email,Mobile,Beauty,1,0,0,0,1999
+812,28/06/2025,5110,Organic,Mobile,Beauty,1,0,0,0,1999
+813,24/01/2025,5163,Organic,Mobile,,0,0,,0,
+814,15/04/2025,5992,Social,Desktop,Home & Kitchen,1,0,0,0,799
+815,23/04/2025,6447,Organic,Desktop,Beauty,1,1,0,0,1299
+816,04/02/2025,7824,Organic,,Home & Kitchen,,1,0,0,1999
+817,03/10/2024,5345,,Desktop,Electronics,1,0,0,1,0
+818,11/03/2025,8307,Referral,Desktop,Home & Kitchen,1,,0,0,1299
+819,11/06/2025,7405,Social,Desktop,Electronics,1,1,0,0,
+820,02/05/2025,8701,Paid Ads,Mobile,,1,1,0,,2499
+821,14/01/2025,7807,Referral,Tablet,Beauty,1,0,0,,799
+822,18/04/2025,8336,Social,Desktop,,0,1,0,0,2499
+823,01/11/2024,8284,Referral,Mobile,Sports,1,0,0,0,
+824,08/12/2024,6889,Social,Desktop,Beauty,0,0,,0,
+825,20/12/2024,6816,Organic,Tablet,Electronics,1,1,0,1,0
+826,28/02/2025,5190,Referral,Tablet,,1,0,0,0,
+827,27/11/2024,5482,,Desktop,Beauty,1,1,1,0,1999
+828,05/01/2025,7583,Social,Mobile,Home & Kitchen,1,1,0,0,799
+829,01/02/2025,7598,Social,Tablet,,1,,0,1,2499
+830,20/11/2024,6206,,Tablet,,1,1,0,0,799
+831,28/04/2025,6978,Paid Ads,Tablet,,1,0,,0,2499
+832,04/02/2025,6124,,Desktop,,1,0,0,0,
+833,23/05/2025,6217,Social,Tablet,,0,1,1,0,0
+834,03/05/2025,5845,Organic,Mobile,,1,0,0,0,0
+835,15/10/2024,7011,Social,Tablet,Home & Kitchen,1,,0,0,1999
+836,14/12/2024,8272,Organic,,Beauty,1,,0,,799
+837,18/10/2024,8382,Paid Ads,Desktop,Sports,1,0,1,0,
+838,20/05/2025,5856,,Tablet,,1,0,0,0,1999
+839,26/02/2025,7973,Organic,Mobile,,1,0,,0,0
+840,17/06/2025,8929,Email,Desktop,Beauty,1,1,,0,
+841,20/01/2025,5534,Organic,Tablet,Beauty,1,0,0,1,1999
+842,15/10/2024,7029,Organic,Tablet,Sports,1,0,0,1,2499
+843,10/05/2025,5837,Email,Desktop,,1,0,0,1,2499
+844,20/02/2025,6302,Social,,Beauty,1,1,0,0,0
+845,03/03/2025,5672,,,Electronics,1,0,0,0,1999
+846,28/11/2024,6057,Referral,Mobile,,1,1,1,0,0
+847,04/05/2025,8254,Social,Tablet,Fashion,1,1,0,,2499
+848,30/01/2025,8754,Paid Ads,,,1,1,,0,
+849,18/05/2025,7623,,Desktop,,1,0,0,1,1299
+850,08/10/2024,5370,Organic,Desktop,,1,1,0,,799
+851,21/04/2025,7095,Paid Ads,,Beauty,1,,1,0,1999
+852,15/10/2024,7608,Organic,,Home & Kitchen,0,1,,1,
+853,26/01/2025,5460,Email,Tablet,,1,,0,0,3499
+854,28/05/2025,7117,Organic,,Fashion,1,0,0,0,0
+855,04/04/2025,8412,Referral,Desktop,Beauty,1,0,0,1,0
+856,06/04/2025,7762,Paid Ads,Tablet,Beauty,1,1,0,1,2499
+857,17/12/2024,8357,Social,Tablet,,1,0,0,1,3499
+858,14/04/2025,6057,Paid Ads,Mobile,Fashion,0,0,1,0,3499
+859,04/05/2025,6845,Organic,Desktop,Beauty,1,0,0,1,
+860,17/03/2025,8969,Referral,Mobile,Home & Kitchen,1,0,1,0,2499
+861,01/05/2025,6453,Email,Mobile,,0,,0,0,0
+862,28/02/2025,6367,Email,Desktop,,1,0,0,0,0
+863,16/05/2025,8601,Organic,Desktop,Home & Kitchen,0,1,0,0,2499
+864,07/03/2025,7329,,,,,,0,1,2499
+865,18/03/2025,8312,Paid Ads,,Home & Kitchen,1,0,,0,3499
+866,07/10/2024,5953,,Mobile,,0,0,0,,1999
+867,16/12/2024,6112,Paid Ads,,,1,,,0,1299
+868,05/01/2025,7729,Organic,,,1,1,,1,799
+869,21/11/2024,5565,Paid Ads,Mobile,Electronics,1,0,,1,1999
+870,10/12/2024,7914,Social,,Fashion,1,0,0,0,0
+871,31/12/2024,7714,Organic,Tablet,Electronics,1,1,1,,1999
+872,24/06/2025,8070,Organic,Desktop,Electronics,1,0,0,1,1999
+873,27/11/2024,6954,Paid Ads,,,0,0,0,0,0
+874,16/03/2025,7004,,Desktop,Electronics,1,1,0,0,2499
+875,30/01/2025,6363,Referral,,Fashion,1,0,0,1,2499
+876,27/03/2025,8198,Paid Ads,Desktop,Fashion,1,1,0,0,
+877,13/06/2025,7588,Email,,Beauty,0,1,0,1,1999
+878,10/10/2024,6111,,Mobile,Beauty,1,1,0,,1999
+879,20/02/2025,7799,Social,Tablet,Sports,1,0,0,0,0
+880,02/06/2025,8820,Email,Mobile,,0,1,0,0,3499
+881,29/01/2025,8208,Referral,Tablet,Beauty,1,0,0,0,1999
+882,29/03/2025,7901,Paid Ads,Mobile,,1,1,1,,799
+883,26/11/2024,6701,Social,Desktop,Sports,1,0,0,,0
+884,11/05/2025,8397,Paid Ads,Mobile,Fashion,1,,1,0,1999
+885,28/05/2025,6217,Email,Tablet,Home & Kitchen,1,1,0,0,
+886,28/05/2025,8933,Email,Desktop,Electronics,1,,0,0,1299
+887,04/05/2025,7199,Social,Desktop,Fashion,1,0,,0,1999
+888,04/10/2024,8851,Paid Ads,Desktop,Home & Kitchen,1,1,0,1,0
+889,19/12/2024,7437,,Tablet,,0,1,0,0,0
+890,01/10/2024,7788,Paid Ads,Mobile,,,0,0,1,3499
+891,17/10/2024,7553,Social,,,1,1,0,,2499
+892,07/01/2025,7978,Organic,,Home & Kitchen,1,0,0,0,3499
+893,28/03/2025,5373,Email,,,1,0,1,0,1999
+894,08/10/2024,6483,Organic,Mobile,Electronics,1,,1,0,0
+895,16/02/2025,7738,Email,,Home & Kitchen,0,0,0,1,0
+896,21/06/2025,6880,Referral,Desktop,Beauty,0,0,0,1,2499
+897,27/04/2025,6702,Email,Mobile,Electronics,1,0,0,0,1299
+898,21/06/2025,8501,Social,Mobile,Sports,1,0,1,0,1299
+899,17/06/2025,7574,,Tablet,Electronics,1,1,1,,2499
+900,12/11/2024,8228,,,Electronics,0,1,0,0,
+901,17/06/2025,7865,Referral,Desktop,,0,1,1,0,3499
+902,06/10/2024,6550,,Mobile,Home & Kitchen,1,0,,1,1999
+903,29/04/2025,8455,Social,Tablet,Beauty,1,0,0,1,
+904,09/01/2025,7585,Paid Ads,Tablet,Home & Kitchen,1,0,0,0,3499
+905,24/12/2024,8853,Paid Ads,Desktop,,1,0,0,0,2499
+906,30/12/2024,7274,Referral,Desktop,Home & Kitchen,0,0,1,0,799
+907,07/04/2025,6390,Email,Tablet,Electronics,1,0,0,,1299
+908,16/01/2025,8338,Email,,Electronics,1,0,0,0,2499
+909,01/01/2025,7795,Referral,,,1,1,0,1,799
+910,27/05/2025,5922,Paid Ads,Desktop,Fashion,1,0,1,0,2499
+911,27/03/2025,8278,Referral,,Fashion,1,0,0,,1999
+912,15/06/2025,5830,,Mobile,Fashion,1,0,0,0,799
+913,03/04/2025,8338,Social,Desktop,Sports,1,0,,,3499
+914,02/11/2024,8046,,Desktop,Sports,1,0,0,0,
+915,06/06/2025,8209,,Mobile,,1,0,0,0,1299
+916,17/01/2025,6392,Organic,,,1,0,0,0,1299
+917,22/12/2024,6640,Organic,Desktop,Electronics,1,1,0,0,799
+918,02/05/2025,7162,Social,Tablet,,1,0,0,0,3499
+919,29/01/2025,8126,Email,Tablet,,1,0,0,1,1999
+920,07/05/2025,5383,,Desktop,Fashion,0,0,0,0,3499
+921,26/11/2024,6949,Paid Ads,,Electronics,1,1,0,,799
+922,27/04/2025,6896,Email,Desktop,Sports,0,1,0,0,1999
+923,15/12/2024,5506,Organic,Desktop,Home & Kitchen,1,1,,0,1299
+924,07/06/2025,6102,Social,,Sports,1,0,0,0,799
+925,22/11/2024,7337,Referral,Desktop,,1,0,1,0,2499
+926,06/11/2024,5777,Email,,,1,0,0,1,3499
+927,20/06/2025,7794,Referral,Mobile,Sports,1,0,0,1,
+928,10/05/2025,6764,Paid Ads,Tablet,Electronics,1,1,1,0,1299
+929,04/02/2025,6865,,,Home & Kitchen,0,0,0,0,1299
+930,22/06/2025,5232,Email,,Fashion,1,0,0,0,0
+931,18/03/2025,6719,Social,Mobile,Beauty,1,0,,0,1999
+932,26/12/2024,6080,,Desktop,Electronics,1,,1,0,799
+933,19/03/2025,5261,,Tablet,Home & Kitchen,1,0,0,0,2499
+934,23/01/2025,7042,Organic,Tablet,Fashion,1,1,0,1,1299
+935,28/06/2025,8624,,Mobile,Home & Kitchen,1,0,0,0,0
+936,01/05/2025,5941,,Tablet,Sports,1,0,0,,2499
+937,01/04/2025,5795,Organic,Mobile,Fashion,1,1,0,1,1299
+938,11/03/2025,6960,Social,Tablet,Home & Kitchen,1,0,0,0,1999
+939,17/10/2024,6757,Organic,Desktop,,0,0,0,0,3499
+940,27/02/2025,6681,Organic,,Beauty,1,0,1,0,0
+941,29/01/2025,6956,Paid Ads,Desktop,,1,0,0,1,1999
+942,27/02/2025,7653,Referral,Tablet,,1,1,,0,3499
+943,01/12/2024,7273,,Mobile,,1,1,1,0,1999
+944,14/05/2025,5459,Referral,,Fashion,1,1,,0,2499
+945,29/04/2025,7952,Paid Ads,,Sports,1,1,,1,1299
+946,14/03/2025,5436,,Desktop,Fashion,1,0,1,0,
+947,08/10/2024,5758,Email,,Electronics,1,1,0,,799
+948,14/04/2025,8788,Social,Desktop,Home & Kitchen,1,0,0,,1299
+949,31/01/2025,7298,Referral,Mobile,Home & Kitchen,1,0,0,0,1299
+950,10/01/2025,5339,Social,Mobile,Electronics,0,1,0,0,1299
+951,08/02/2025,6142,Social,,Electronics,1,0,0,0,
+952,14/01/2025,7895,Paid Ads,Mobile,,1,0,0,0,799
+953,16/05/2025,7542,Paid Ads,Mobile,Electronics,0,1,0,0,799
+954,25/11/2024,8534,,Mobile,Fashion,1,0,,0,1299
+955,12/03/2025,6186,Email,,Beauty,0,1,0,0,1999
+956,26/06/2025,6365,Referral,Mobile,Beauty,0,0,1,0,0
+957,27/05/2025,7417,Organic,Mobile,Sports,1,1,0,0,1299
+958,27/02/2025,8042,,Mobile,Fashion,0,1,0,0,3499
+959,30/03/2025,6680,,Desktop,Electronics,1,0,0,0,1999
+960,06/02/2025,7664,Social,Mobile,Fashion,0,0,1,,3499
+961,10/01/2025,8648,Paid Ads,Mobile,Sports,,0,0,0,
+962,18/05/2025,5532,Referral,,Sports,1,1,0,0,0
+963,05/10/2024,5113,Paid Ads,Mobile,Home & Kitchen,1,0,1,0,799
+964,12/05/2025,5257,Paid Ads,Mobile,Beauty,0,1,0,0,1999
+965,02/02/2025,6006,Paid Ads,Tablet,Home & Kitchen,1,,0,,1999
+966,10/12/2024,8572,,Desktop,,1,0,1,,799
+967,22/02/2025,7555,Organic,,Home & Kitchen,1,0,0,0,1299
+968,06/06/2025,6865,Organic,Desktop,,0,0,0,0,799
+969,28/05/2025,8514,Social,Desktop,Fashion,1,1,0,0,3499
+970,11/10/2024,8362,Social,,,,0,0,0,799
+971,12/04/2025,6314,Paid Ads,Mobile,,0,0,0,0,0
+972,17/03/2025,5663,Email,,Home & Kitchen,1,,0,,0
+973,19/12/2024,6313,Social,Tablet,Sports,1,1,,0,1999
+974,25/04/2025,5531,Social,Desktop,Fashion,1,1,0,1,0
+975,28/10/2024,7171,,Mobile,Sports,1,0,0,0,1999
+976,21/10/2024,8915,Referral,Desktop,Fashion,1,0,1,1,0
+977,22/01/2025,6425,,Tablet,Home & Kitchen,1,0,0,0,1999
+978,12/11/2024,5228,Social,Tablet,Sports,0,0,0,0,
+979,11/12/2024,7783,Paid Ads,Desktop,Sports,0,0,0,0,1299
+980,04/03/2025,5394,Paid Ads,Tablet,Beauty,1,1,0,0,1999
+981,28/04/2025,6170,Referral,Tablet,Electronics,1,0,0,0,1299
+982,02/03/2025,5636,Paid Ads,,Fashion,1,1,1,0,799
+983,06/10/2024,5914,Email,Desktop,Sports,1,1,0,0,1299
+984,28/10/2024,8587,Email,Tablet,Sports,1,1,0,0,2499
+985,22/12/2024,6441,Referral,,,1,0,0,1,1299
+986,04/11/2024,7838,,Tablet,,1,1,0,0,3499
+987,16/04/2025,6109,,Tablet,Home & Kitchen,1,,0,0,2499
+988,09/11/2024,8698,Organic,Tablet,Sports,1,1,0,0,2499
+989,02/12/2024,5684,Email,,Beauty,0,1,0,0,3499
+990,09/05/2025,8600,Email,,Electronics,1,0,0,0,1999
+991,14/04/2025,6745,Referral,Desktop,Home & Kitchen,1,1,0,,3499
+992,08/02/2025,7586,Paid Ads,Tablet,,0,0,0,0,1299
+993,11/04/2025,7867,Email,Mobile,Electronics,1,0,0,0,1299
+994,01/11/2024,8548,Organic,Mobile,,1,1,0,0,799
+995,31/05/2025,5882,Paid Ads,Desktop,,1,0,1,,1999
+996,09/10/2024,8198,Organic,Tablet,Fashion,1,0,1,1,2499
+997,14/05/2025,8882,Social,Desktop,Electronics,1,1,0,0,
+998,21/06/2025,6111,,Tablet,Home & Kitchen,1,,0,0,3499
+999,20/05/2025,8086,Paid Ads,,,1,,1,0,
+1000,27/06/2025,7265,Social,Mobile,Electronics,1,1,0,0,3499
+1001,23/04/2025,5376,Social,Desktop,,1,0,0,0,3499
+1002,08/11/2024,7014,Paid Ads,Desktop,,1,1,0,0,1999
+1003,29/06/2025,6395,Organic,Tablet,Fashion,0,1,0,0,1999
+1004,13/02/2025,5068,Paid Ads,,Electronics,1,1,0,0,3499
+1005,23/12/2024,7786,,Tablet,Sports,1,1,0,0,1299
+1006,27/02/2025,7225,,Desktop,,,0,0,0,1999
+1007,26/01/2025,6708,Email,Mobile,Fashion,1,0,0,0,0
+1008,27/02/2025,5085,Organic,Mobile,,1,1,1,1,2499
+1009,13/02/2025,6096,,,Fashion,1,1,0,1,0
+1010,04/01/2025,7299,Paid Ads,Tablet,Fashion,1,1,0,1,0
+1011,20/06/2025,5895,Paid Ads,Tablet,Electronics,1,0,0,0,
+1012,01/03/2025,7951,Social,Desktop,,1,0,1,0,0
+1013,27/03/2025,7524,Paid Ads,Tablet,Beauty,1,,,,799
+1014,03/06/2025,8859,Social,Tablet,Home & Kitchen,1,1,0,1,3499
+1015,24/01/2025,5953,Organic,Mobile,,1,1,0,0,3499
+1016,03/03/2025,8582,Social,Tablet,,1,0,,0,1999
+1017,16/04/2025,6351,Paid Ads,Tablet,Home & Kitchen,1,0,1,0,
+1018,17/11/2024,8910,Email,Mobile,Electronics,0,0,0,0,0
+1019,04/01/2025,7440,,Mobile,,0,1,0,0,1999
+1020,04/12/2024,8796,Social,Desktop,,1,1,1,0,3499
+1021,19/05/2025,8501,Referral,Mobile,,1,,0,,
+1022,23/02/2025,7801,Referral,Tablet,,0,1,1,1,3499
+1023,24/03/2025,8664,Email,Desktop,Sports,1,0,0,0,799
+1024,26/01/2025,8698,Organic,,Home & Kitchen,1,0,0,0,3499
+1025,28/10/2024,8600,Paid Ads,Desktop,Electronics,1,1,1,1,1299
+1026,26/03/2025,5965,Email,Desktop,Electronics,1,1,0,0,0
+1027,31/12/2024,7007,Paid Ads,,Sports,1,1,1,1,0
+1028,07/02/2025,8821,Organic,Mobile,Sports,1,1,0,0,3499
+1029,22/02/2025,7772,Paid Ads,Desktop,Electronics,1,0,1,0,0
+1030,19/06/2025,5442,Organic,Mobile,Fashion,1,1,0,0,1999
+1031,14/06/2025,6260,Referral,Desktop,Fashion,1,,0,0,0
+1032,13/06/2025,6731,Email,,,1,1,0,0,1299
+1033,28/10/2024,6601,Paid Ads,Desktop,Electronics,0,0,0,1,3499
+1034,13/12/2024,6975,Organic,Mobile,,1,1,1,,799
+1035,04/10/2024,5644,Paid Ads,Mobile,,1,1,0,0,2499
+1036,21/04/2025,8386,Organic,Mobile,,,1,0,,3499
+1037,17/04/2025,8899,Email,,,1,1,0,0,
+1038,15/11/2024,5996,Organic,Tablet,Home & Kitchen,1,1,,1,799
+1039,09/03/2025,6594,Email,Tablet,Beauty,1,,,0,0
+1040,22/12/2024,5942,Paid Ads,Tablet,Home & Kitchen,,0,,0,1299
+1041,23/03/2025,6517,Paid Ads,Mobile,Sports,1,0,1,0,1299
+1042,28/11/2024,6259,Paid Ads,Mobile,Home & Kitchen,1,0,0,0,1299
+1043,09/01/2025,5109,Organic,Mobile,Sports,1,0,0,0,799
+1044,17/04/2025,7305,Email,Tablet,Home & Kitchen,1,0,0,,2499
+1045,19/05/2025,8366,Paid Ads,Tablet,,1,0,,1,3499
+1046,10/12/2024,7599,Referral,,Fashion,1,1,0,0,799
+1047,23/10/2024,5691,Referral,Desktop,Fashion,1,0,0,0,0
+1048,01/03/2025,8781,Social,Mobile,Beauty,1,0,1,0,1299
+1049,17/04/2025,6184,Email,Tablet,,0,0,0,1,
+1050,30/12/2024,8492,Social,Tablet,Beauty,1,1,0,1,1999
+1051,03/10/2024,7774,Paid Ads,Mobile,Fashion,1,0,1,1,2499
+1052,27/12/2024,6110,,Tablet,,0,0,0,0,2499
+1053,28/04/2025,6775,Social,Mobile,Home & Kitchen,0,1,,0,1299
+1054,23/01/2025,6675,Paid Ads,Mobile,Electronics,1,1,0,,
+1055,15/12/2024,6009,Referral,Desktop,Electronics,0,0,0,0,799
+1056,12/12/2024,8004,Social,Desktop,,1,1,1,0,3499
+1057,27/04/2025,7703,Organic,Tablet,Beauty,1,0,0,0,1299
+1058,27/03/2025,6946,Organic,,Fashion,1,0,1,0,1999
+1059,10/03/2025,7451,Social,,Sports,1,1,0,0,3499
+1060,19/06/2025,8885,Email,Tablet,,0,1,1,1,799
+1061,27/10/2024,5884,,,,1,0,0,1,3499
+1062,03/04/2025,8997,Paid Ads,Tablet,Sports,0,1,1,1,2499
+1063,03/12/2024,6367,Paid Ads,Tablet,,1,0,0,0,0
+1064,14/12/2024,8217,Social,Desktop,Fashion,1,1,0,0,799
+1065,08/05/2025,8101,Organic,Tablet,,1,0,0,1,799
+1066,04/12/2024,7823,Social,Tablet,Electronics,0,0,0,0,
+1067,04/12/2024,5358,,,Home & Kitchen,1,,1,0,2499
+1068,03/03/2025,8967,Paid Ads,Tablet,Beauty,1,0,,0,799
+1069,11/03/2025,6817,Paid Ads,Tablet,Beauty,1,0,0,,1999
+1070,18/12/2024,6521,Email,,Electronics,1,0,0,1,2499
+1071,21/03/2025,6919,Referral,Mobile,Electronics,1,0,1,0,
+1072,07/05/2025,5154,Organic,Mobile,,1,0,0,0,799
+1073,19/10/2024,8740,Organic,Tablet,Home & Kitchen,1,0,1,0,0
+1074,04/05/2025,6607,Organic,,,1,0,,0,1999
+1075,12/04/2025,7865,,Desktop,Fashion,0,1,0,1,3499
+1076,19/04/2025,5124,Referral,Mobile,,1,1,1,1,
+1077,18/10/2024,6557,Paid Ads,Tablet,Fashion,,0,1,,2499
+1078,12/02/2025,6633,Organic,Mobile,Beauty,1,,1,1,2499
+1079,07/01/2025,5124,Paid Ads,,Fashion,1,1,0,0,
+1080,01/03/2025,5116,Paid Ads,Desktop,Fashion,1,0,0,,
+1081,12/02/2025,8225,Paid Ads,Desktop,Beauty,1,,1,0,3499
+1082,01/05/2025,7910,Email,Mobile,Electronics,0,1,0,0,799
+1083,01/12/2024,6320,,Desktop,Beauty,1,0,1,0,1299
+1084,12/04/2025,5024,,Desktop,Home & Kitchen,1,1,1,0,
+1085,29/03/2025,7222,Referral,Mobile,Home & Kitchen,0,,1,1,
+1086,02/04/2025,5526,Referral,Mobile,,1,1,0,0,1299
+1087,23/03/2025,6746,,,Sports,1,0,0,0,799
+1088,26/11/2024,7827,Referral,Tablet,Fashion,1,0,0,0,1299
+1089,05/05/2025,6310,Email,,Electronics,1,0,0,0,1299
+1090,10/03/2025,5358,Social,Desktop,Fashion,1,1,0,0,799
+1091,28/02/2025,8023,Social,Tablet,,1,0,0,0,3499
+1092,13/11/2024,7837,Social,Tablet,Sports,1,0,1,0,1299
+1093,30/05/2025,8039,,Mobile,,1,0,0,,3499
+1094,06/06/2025,5674,Email,Mobile,,0,0,1,,2499
+1095,05/05/2025,6548,Email,,,1,0,0,0,799
+1096,11/03/2025,7824,Social,,Electronics,,,0,0,3499
+1097,22/01/2025,7165,Organic,Desktop,,1,0,1,0,0
+1098,11/06/2025,8692,Organic,Desktop,Home & Kitchen,0,0,0,,1299
+1099,28/02/2025,8535,,Desktop,,1,1,0,0,799
+1100,27/02/2025,7953,Organic,Desktop,Electronics,1,1,0,0,2499
+1101,21/12/2024,8638,Referral,Tablet,Sports,0,1,0,1,0
+1102,08/02/2025,7909,Referral,Tablet,,1,0,1,,3499
+1103,18/10/2024,8748,Paid Ads,Mobile,Fashion,,1,0,1,799
+1104,19/12/2024,6144,Email,Mobile,Beauty,1,1,0,1,2499
+1105,26/06/2025,7319,Social,Mobile,Home & Kitchen,1,1,0,0,799
+1106,18/06/2025,5502,Paid Ads,,Beauty,1,0,0,1,3499
+1107,18/11/2024,7223,Referral,,Sports,1,1,1,0,2499
+1108,28/01/2025,8774,Social,Tablet,Sports,1,1,0,0,1999
+1109,30/04/2025,7813,,,,0,1,0,0,3499
+1110,06/06/2025,8904,,Mobile,,1,1,0,0,2499
+1111,18/05/2025,6495,Social,,,,0,0,0,
+1112,12/05/2025,7137,Paid Ads,,Sports,1,1,0,0,2499
+1113,21/05/2025,6912,Social,Desktop,,1,1,0,0,
+1114,20/11/2024,6688,,Mobile,Fashion,1,0,1,0,0
+1115,11/02/2025,8260,Organic,Mobile,Beauty,1,1,0,0,1999
+1116,08/01/2025,8241,,Mobile,,1,0,0,0,3499
+1117,03/04/2025,5554,Organic,Tablet,Beauty,1,0,0,0,2499
+1118,16/05/2025,7479,Email,Mobile,Home & Kitchen,1,,1,1,1299
+1119,18/04/2025,8449,Social,Tablet,Electronics,1,1,0,0,1299
+1120,07/11/2024,7543,Social,,Sports,1,1,1,1,799
+1121,25/06/2025,5826,Referral,Tablet,,1,1,0,0,1999
+1122,18/12/2024,7299,Social,,Fashion,1,,1,0,1299
+1123,17/01/2025,8835,Email,Desktop,Fashion,1,,0,0,2499
+1124,15/10/2024,7777,Email,,Beauty,1,1,0,0,0
+1125,10/01/2025,7458,Paid Ads,Desktop,Sports,1,1,1,0,799
+1126,20/12/2024,5714,Referral,Tablet,Beauty,1,1,1,0,1299
+1127,22/06/2025,8028,,Tablet,Fashion,0,0,0,,0
+1128,08/10/2024,7319,Referral,Desktop,,0,1,0,1,
+1129,27/01/2025,8156,Social,Tablet,Electronics,1,0,1,,1999
+1130,25/06/2025,8353,,Desktop,Sports,1,0,0,0,2499
+1131,26/01/2025,6954,Referral,,,1,0,0,0,3499
+1132,29/04/2025,7741,Social,,,1,1,,0,2499
+1133,19/10/2024,6201,Paid Ads,Desktop,Electronics,1,1,,0,3499
+1134,22/06/2025,7268,Social,Mobile,Electronics,1,0,1,1,799
+1135,17/10/2024,7369,,Tablet,Sports,1,0,,0,1999
+1136,19/01/2025,6861,Email,Mobile,,1,0,0,0,1299
+1137,28/06/2025,8117,Social,Tablet,Sports,1,0,1,1,1999
+1138,25/11/2024,7031,Paid Ads,,Beauty,1,1,0,0,1999
+1139,11/02/2025,6364,Organic,Tablet,Beauty,1,0,1,0,1999
+1140,02/12/2024,5081,Email,Tablet,Sports,1,0,0,0,1299
+1141,15/01/2025,8555,Organic,Mobile,Fashion,1,1,0,0,2499
+1142,13/11/2024,8579,Social,Mobile,,,0,0,0,
+1143,21/02/2025,6589,Social,,,,0,0,1,3499
+1144,01/01/2025,7898,Email,Mobile,Home & Kitchen,0,0,0,0,0
+1145,07/01/2025,8456,,,Home & Kitchen,1,,1,1,799
+1146,29/12/2024,8590,Paid Ads,Desktop,,1,1,1,0,
+1147,06/05/2025,7256,,Mobile,Fashion,1,1,,0,799
+1148,14/06/2025,7417,,Tablet,Beauty,1,0,0,0,2499
+1149,10/03/2025,8907,Paid Ads,,,0,0,0,0,799
+1150,22/01/2025,6275,Email,Mobile,Sports,1,0,1,0,3499
+1151,17/01/2025,7327,Social,Tablet,Beauty,1,0,1,0,2499
+1152,05/05/2025,7644,,Mobile,Sports,1,,0,0,0
+1153,19/10/2024,6219,Social,Desktop,Electronics,1,0,0,0,
+1154,22/10/2024,6849,,,Fashion,1,1,0,0,3499
+1155,07/11/2024,8949,Organic,,,1,,0,1,1299
+1156,02/01/2025,7973,Social,Tablet,,1,0,,0,2499
+1157,01/02/2025,7170,,Tablet,Home & Kitchen,1,0,1,0,799
+1158,19/04/2025,7444,Organic,Mobile,Beauty,1,0,0,0,1299
+1159,25/04/2025,8870,,Mobile,Sports,1,0,0,0,3499
+1160,16/03/2025,5991,Referral,Mobile,,1,,0,0,1299
+1161,25/06/2025,8975,Referral,Mobile,Fashion,1,0,,0,1999
+1162,15/05/2025,7642,Referral,Tablet,Beauty,1,0,0,0,1299
+1163,31/12/2024,6432,Organic,Tablet,Beauty,1,1,0,,799
+1164,13/03/2025,5588,Social,Tablet,,1,0,0,0,
+1165,23/10/2024,5497,Referral,Desktop,Electronics,1,0,0,0,1999
+1166,27/04/2025,7885,Paid Ads,Mobile,Fashion,1,0,,0,1299
+1167,09/02/2025,8246,Organic,Desktop,Beauty,1,0,0,0,3499
+1168,07/10/2024,8287,,,Electronics,1,0,0,0,1999
+1169,05/01/2025,6042,Organic,Desktop,,1,0,,0,799
+1170,30/12/2024,7576,Referral,Tablet,Fashion,1,0,1,0,3499
+1171,01/06/2025,8369,Referral,Desktop,Sports,0,0,0,0,0
+1172,12/02/2025,6330,Paid Ads,Desktop,Fashion,0,0,0,1,799
+1173,15/01/2025,8301,Email,,Sports,0,1,0,0,3499
+1174,04/11/2024,8457,Referral,Tablet,Sports,0,0,0,0,
+1175,21/04/2025,8700,Social,Mobile,Electronics,1,1,0,0,1299
+1176,16/05/2025,7295,Social,Mobile,,1,1,1,0,799
+1177,09/10/2024,6048,,Tablet,Fashion,0,1,0,0,0
+1178,23/02/2025,5013,,Tablet,,1,0,,,0
+1179,17/02/2025,8843,Organic,Desktop,,1,0,0,1,1299
+1180,02/05/2025,7265,Email,Desktop,,1,,0,0,1999
+1181,22/06/2025,5214,Referral,Desktop,Beauty,1,0,1,0,0
+1182,06/01/2025,6132,Paid Ads,Mobile,,1,0,0,1,799
+1183,22/02/2025,8466,Organic,Tablet,Electronics,0,0,0,0,
+1184,07/01/2025,8248,Paid Ads,,Beauty,1,0,1,1,1299
+1185,06/06/2025,7416,Social,Tablet,Beauty,1,0,1,0,1999
+1186,26/12/2024,7577,,,,1,1,0,0,1999
+1187,22/06/2025,5100,,Mobile,Home & Kitchen,1,0,1,0,1299
+1188,15/03/2025,8163,,Mobile,Home & Kitchen,1,0,1,1,799
+1189,08/02/2025,7004,Social,,,1,1,0,0,0
+1190,10/04/2025,5569,,Desktop,Electronics,0,1,1,1,0
+1191,04/02/2025,6446,Referral,Mobile,Home & Kitchen,1,1,0,1,1999
+1192,14/03/2025,5962,Organic,Tablet,,1,0,1,1,0
+1193,22/10/2024,6284,Social,Tablet,Home & Kitchen,1,1,0,0,2499
+1194,19/12/2024,6086,Organic,Tablet,Sports,1,0,0,1,2499
+1195,16/05/2025,7669,,Desktop,,1,1,0,0,1299
+1196,16/02/2025,5729,Referral,Tablet,,1,,0,0,2499
+1197,14/06/2025,8019,Referral,Mobile,Electronics,,0,1,0,
+1198,10/10/2024,6698,Email,Mobile,,1,1,1,0,799
+1199,27/04/2025,6979,Referral,,,1,,0,0,799
+1200,12/03/2025,6293,Email,Mobile,,1,,1,0,1999
+1201,08/02/2025,6091,Paid Ads,,Fashion,1,1,0,0,0
+1202,09/03/2025,8229,Referral,,Electronics,1,0,0,0,1999
+1203,13/03/2025,5849,Organic,Tablet,Sports,1,1,0,,3499
+1204,17/06/2025,5906,Social,Tablet,Beauty,1,1,,1,799
+1205,05/05/2025,5116,Paid Ads,Tablet,Sports,1,0,,0,1999
+1206,21/12/2024,5873,Social,Desktop,,1,1,0,0,
+1207,16/12/2024,7453,Email,Tablet,Home & Kitchen,1,1,1,0,0
+1208,19/03/2025,8524,Email,Mobile,Sports,1,0,0,0,1999
+1209,09/11/2024,8275,Referral,Mobile,,1,1,0,0,2499
+1210,10/01/2025,6288,Referral,Mobile,Sports,0,,0,0,799
+1211,11/03/2025,7639,,Desktop,,1,1,1,0,799
+1212,10/11/2024,7215,Organic,Desktop,,1,0,0,0,
+1213,01/02/2025,6261,Social,Desktop,Electronics,1,1,1,1,1999
+1214,28/02/2025,6141,Social,Tablet,Sports,1,1,1,1,3499
+1215,16/10/2024,5464,Social,Mobile,Sports,1,0,,1,799
+1216,30/10/2024,6099,Social,Desktop,Fashion,1,0,0,,799
+1217,05/01/2025,7983,Referral,Desktop,Electronics,1,0,0,0,2499
+1218,29/10/2024,7232,Referral,Mobile,Home & Kitchen,1,0,0,1,1999
+1219,24/02/2025,5173,Social,Tablet,Beauty,1,1,0,1,799
+1220,09/03/2025,8240,Email,,Fashion,1,1,0,0,3499
+1221,09/06/2025,6453,Paid Ads,Tablet,Sports,0,0,0,1,
+1222,28/01/2025,7436,Email,Desktop,,1,0,0,0,0
+1223,14/06/2025,8915,Paid Ads,Tablet,Sports,1,0,0,1,
+1224,13/02/2025,8395,Social,Tablet,,1,1,0,0,1999
+1225,30/01/2025,8374,Paid Ads,,,1,0,,,799
+1226,18/03/2025,8318,Paid Ads,,Beauty,1,0,1,1,1299
+1227,30/03/2025,6214,,Tablet,Sports,1,0,0,0,0
+1228,13/04/2025,6481,Referral,Desktop,Electronics,1,0,0,0,1299
+1229,24/04/2025,7088,Referral,Desktop,Fashion,1,1,,0,3499
+1230,01/01/2025,5399,Social,Mobile,Beauty,1,0,0,0,2499
+1231,08/11/2024,8148,Social,,Beauty,1,0,,0,3499
+1232,01/10/2024,6296,Paid Ads,Tablet,Fashion,1,0,0,0,799
+1233,08/06/2025,8607,Paid Ads,,Home & Kitchen,1,0,1,0,799
+1234,14/01/2025,7639,Organic,Desktop,Home & Kitchen,1,1,0,0,1999
+1235,28/04/2025,6622,Paid Ads,Mobile,,1,0,0,0,1299
+1236,03/11/2024,7778,Social,,Sports,1,1,1,0,1299
+1237,08/02/2025,8513,Organic,Tablet,,1,0,0,0,1999
+1238,13/12/2024,7849,Paid Ads,,Beauty,1,1,0,0,1999
+1239,22/06/2025,7961,,Tablet,Sports,1,1,0,1,1299
+1240,30/05/2025,6328,,Tablet,Fashion,1,0,0,1,1999
+1241,09/03/2025,7060,Social,Mobile,,1,,0,0,2499
+1242,30/06/2025,7781,Email,Mobile,,1,0,1,0,2499
+1243,29/06/2025,7460,Organic,Tablet,Sports,0,1,1,,
+1244,03/11/2024,8452,Referral,Desktop,Home & Kitchen,0,1,1,0,1999
+1245,13/01/2025,6228,Referral,,Fashion,1,1,1,0,1999
+1246,14/10/2024,6812,Organic,Mobile,Beauty,1,,0,0,
+1247,06/04/2025,8856,,Mobile,Electronics,1,,0,1,1299
+1248,27/12/2024,5918,,Mobile,Electronics,1,0,0,0,
+1249,18/10/2024,7711,Email,,,1,0,0,,3499
+1250,04/10/2024,7855,Organic,Desktop,Home & Kitchen,0,,0,1,
+1251,21/06/2025,5675,,,Fashion,1,0,,0,
+1252,09/02/2025,8697,Organic,Mobile,,0,0,0,0,2499
+1253,22/04/2025,8255,,Tablet,,,0,0,0,2499
+1254,13/11/2024,8791,Email,Mobile,Fashion,1,1,0,0,0
+1255,12/12/2024,7719,Email,Mobile,,1,0,0,0,2499
+1256,14/04/2025,7924,Organic,Desktop,Fashion,1,0,0,0,799
+1257,15/02/2025,8964,Email,Tablet,Fashion,1,1,0,1,0
+1258,06/10/2024,5895,Referral,Tablet,Fashion,1,0,0,1,2499
+1259,13/06/2025,8880,Social,Mobile,Electronics,1,0,0,0,0
+1260,29/05/2025,7930,Email,,Beauty,0,0,1,0,0
+1261,23/06/2025,7073,,Tablet,Electronics,1,0,0,1,799
+1262,06/10/2024,8612,Organic,Desktop,Home & Kitchen,1,,0,,1299
+1263,29/03/2025,5523,Social,Desktop,Beauty,1,0,1,0,799
+1264,21/11/2024,6155,Email,Desktop,,1,0,,0,3499
+1265,10/01/2025,6653,Email,,Beauty,1,0,1,1,799
+1266,02/12/2024,8025,Organic,Tablet,Electronics,1,1,0,1,1999
+1267,11/12/2024,5382,Email,Tablet,Sports,1,0,0,0,799
+1268,28/05/2025,5425,Social,Tablet,Electronics,0,0,1,0,3499
+1269,25/04/2025,8060,Organic,Tablet,Home & Kitchen,0,1,0,1,2499
+1270,11/10/2024,6686,Social,Mobile,Fashion,1,1,0,1,1299
+1271,02/01/2025,8107,,Desktop,,1,0,0,0,1299
+1272,26/02/2025,6192,Paid Ads,,Fashion,1,1,1,,799
+1273,18/11/2024,8703,Referral,Mobile,Beauty,1,0,,0,1999
+1274,16/03/2025,6221,Organic,Tablet,Beauty,1,0,1,,0
+1275,13/06/2025,8526,Referral,,Home & Kitchen,1,1,0,0,0
+1276,19/02/2025,5471,Paid Ads,Tablet,Beauty,1,1,,0,1299
+1277,14/01/2025,6991,Social,Desktop,Fashion,1,0,1,,799
+1278,12/04/2025,6280,,Mobile,,1,1,1,1,799
+1279,24/04/2025,8601,Paid Ads,Tablet,Electronics,0,1,,,799
+1280,04/02/2025,7048,,Desktop,Sports,1,,0,0,2499
+1281,01/05/2025,6159,Paid Ads,Mobile,Home & Kitchen,,0,1,,1999
+1282,05/01/2025,7391,Paid Ads,Desktop,Fashion,1,1,0,0,1299
+1283,01/11/2024,8263,Referral,Desktop,Electronics,1,0,,0,0
+1284,21/02/2025,6742,,Mobile,Electronics,0,1,1,0,799
+1285,09/04/2025,6066,Paid Ads,Desktop,Fashion,1,0,0,0,1299
+1286,26/04/2025,6185,Organic,,Home & Kitchen,0,0,,1,0
+1287,18/12/2024,5647,Referral,Mobile,Electronics,1,0,0,0,3499
+1288,29/11/2024,6200,Social,Desktop,,0,0,,1,2499
+1289,10/11/2024,5260,Referral,Mobile,Fashion,1,1,0,0,2499
+1290,07/01/2025,8820,Organic,Desktop,Beauty,0,,0,0,799
+1291,09/10/2024,8293,Referral,Desktop,,0,0,1,0,1299
+1292,20/03/2025,5404,Paid Ads,,Beauty,1,0,0,0,799
+1293,22/12/2024,7300,Referral,Tablet,Home & Kitchen,1,1,0,0,1299
+1294,23/02/2025,7044,Email,,Sports,1,0,1,1,0
+1295,30/05/2025,5440,Social,Mobile,Sports,1,0,1,1,3499
+1296,24/10/2024,8922,Social,,Electronics,1,1,,0,1299
+1297,15/06/2025,5770,Social,Mobile,Sports,0,0,,0,799
+1298,25/03/2025,7863,Paid Ads,Desktop,Electronics,1,1,,1,2499
+1299,29/04/2025,8496,,Desktop,Fashion,1,1,0,0,799
+1300,09/11/2024,7946,,Mobile,Beauty,1,1,0,,
+1301,28/11/2024,6145,,Tablet,Home & Kitchen,1,0,0,0,799
+1302,18/03/2025,5284,,Mobile,Beauty,1,1,,0,0
+1303,29/05/2025,6180,,Mobile,Fashion,1,1,0,0,
+1304,13/01/2025,6168,Organic,Tablet,Electronics,0,0,0,0,799
+1305,11/06/2025,5040,Social,Desktop,Beauty,0,1,0,,1299
+1306,18/02/2025,7562,Referral,Mobile,,1,0,1,1,2499
+1307,17/06/2025,6646,Paid Ads,Tablet,Electronics,,0,1,0,0
+1308,09/10/2024,5237,Organic,Desktop,,1,1,1,0,3499
+1309,22/05/2025,6175,Social,Tablet,Electronics,0,1,0,1,
+1310,01/01/2025,5264,Referral,Tablet,Sports,1,0,1,0,1999
+1311,16/05/2025,6346,Organic,,Home & Kitchen,,,0,0,
+1312,18/12/2024,5171,Organic,Tablet,,0,0,1,,1299
+1313,17/11/2024,6786,Referral,Mobile,Fashion,1,0,0,0,1299
+1314,17/05/2025,5842,Referral,Mobile,Electronics,1,,0,1,799
+1315,22/12/2024,6840,Email,,Electronics,1,0,0,0,3499
+1316,02/04/2025,6503,,Desktop,Electronics,1,0,0,0,1299
+1317,19/10/2024,8822,Referral,,Beauty,0,,0,0,0
+1318,12/05/2025,6318,Email,Mobile,,1,0,1,0,2499
+1319,22/05/2025,5759,Referral,Tablet,Beauty,0,0,0,0,
+1320,26/01/2025,7913,Social,Mobile,,1,1,0,0,0
+1321,23/11/2024,7383,Social,Desktop,Sports,1,0,1,0,0
+1322,02/05/2025,7928,Paid Ads,Mobile,Electronics,1,0,0,0,2499
+1323,21/12/2024,5567,Email,Mobile,Electronics,0,0,0,0,
+1324,23/01/2025,5904,Organic,Mobile,Electronics,1,0,,0,1299
+1325,27/03/2025,5125,Social,Mobile,Sports,0,0,1,0,1999
+1326,12/04/2025,8312,Referral,,Home & Kitchen,1,0,0,0,2499
+1327,17/03/2025,5202,Social,Tablet,Sports,1,1,0,0,
+1328,19/10/2024,8950,,,Fashion,1,1,0,,1299
+1329,29/03/2025,5016,Social,Tablet,Sports,1,1,1,0,2499
+1330,11/12/2024,6078,Organic,,Beauty,1,1,0,0,3499
+1331,26/11/2024,6012,Paid Ads,Mobile,Sports,1,0,0,0,1999
+1332,10/10/2024,6950,,Tablet,,1,0,0,0,1999
+1333,05/10/2024,7686,Referral,Desktop,Sports,1,0,1,0,1299
+1334,11/12/2024,5661,Organic,,Fashion,0,0,0,0,0
+1335,04/04/2025,8959,Organic,Mobile,,1,1,0,0,2499
+1336,29/05/2025,7353,Social,Mobile,Sports,1,0,0,1,1299
+1337,31/10/2024,7186,Social,Desktop,Beauty,1,1,0,0,2499
+1338,28/01/2025,8360,Social,Tablet,Electronics,1,1,1,1,
+1339,03/06/2025,7125,Organic,Mobile,Home & Kitchen,1,1,0,0,0
+1340,12/04/2025,5728,Social,Mobile,Fashion,0,0,0,0,0
+1341,27/11/2024,6240,Paid Ads,Tablet,Electronics,1,1,1,1,1299
+1342,01/04/2025,6994,,,,1,1,1,0,0
+1343,02/10/2024,8554,Email,Tablet,Electronics,0,0,0,,0
+1344,03/06/2025,5955,,Mobile,Sports,,0,0,0,
+1345,22/06/2025,6908,,Tablet,Fashion,1,1,0,0,1299
+1346,10/12/2024,7859,Social,Desktop,,1,0,0,0,1299
+1347,30/10/2024,7454,,Mobile,Fashion,1,1,0,0,3499
+1348,11/12/2024,6662,,Desktop,Sports,1,1,1,1,3499
+1349,19/10/2024,8215,,Mobile,Fashion,1,1,1,0,2499
+1350,19/11/2024,5248,Paid Ads,Mobile,Electronics,1,0,,0,1999
+1351,16/10/2024,6783,Social,Mobile,Sports,1,1,0,,799
+1352,23/01/2025,5210,Paid Ads,Desktop,Sports,0,0,0,0,3499
+1353,18/10/2024,6235,Organic,Tablet,Fashion,1,0,0,,1299
+1354,22/06/2025,7999,Referral,,Fashion,1,1,1,1,1999
+1355,01/11/2024,6410,Social,Mobile,Beauty,1,1,,0,2499
+1356,05/10/2024,7314,Social,Desktop,Home & Kitchen,1,0,0,0,
+1357,23/05/2025,5177,Organic,Tablet,,1,0,1,0,1999
+1358,14/05/2025,6502,Organic,Mobile,Home & Kitchen,1,,0,,0
+1359,13/12/2024,6677,,Mobile,Beauty,1,1,,1,1299
+1360,13/02/2025,6303,Referral,Tablet,Electronics,1,0,0,0,1299
+1361,09/03/2025,5731,Referral,,Fashion,1,,1,0,799
+1362,22/01/2025,6388,Referral,Mobile,,0,1,0,0,1999
+1363,09/06/2025,7389,Referral,,Beauty,1,0,0,0,2499
+1364,07/02/2025,7659,Paid Ads,,Beauty,1,0,,1,3499
+1365,24/03/2025,8652,Paid Ads,Desktop,Home & Kitchen,1,0,0,0,2499
+1366,03/03/2025,7981,Email,,,1,,0,0,
+1367,17/02/2025,6965,,,Home & Kitchen,1,0,0,0,2499
+1368,29/11/2024,7618,Organic,,,1,0,0,0,0
+1369,30/03/2025,6013,,Tablet,,1,0,,0,2499
+1370,04/03/2025,6434,Email,Mobile,Sports,0,0,0,0,2499
+1371,05/01/2025,7992,,Tablet,Beauty,1,0,0,0,3499
+1372,14/02/2025,5404,Organic,Mobile,,1,,1,0,2499
+1373,10/06/2025,7246,Email,Desktop,Home & Kitchen,1,1,0,0,
+1374,05/02/2025,6870,Paid Ads,,,0,0,1,0,
+1375,12/02/2025,8284,Organic,Desktop,Home & Kitchen,1,1,0,0,799
+1376,03/04/2025,6141,Social,Desktop,,1,1,1,0,3499
+1377,03/05/2025,6134,Social,,Beauty,1,0,0,0,1299
+1378,04/10/2024,8784,Organic,Mobile,Sports,1,1,0,1,799
+1379,05/04/2025,5336,Email,,Sports,1,1,1,0,1299
+1380,25/11/2024,5763,Social,,Sports,1,1,1,0,1299
+1381,08/02/2025,7044,Email,,Electronics,1,1,0,0,799
+1382,20/01/2025,5110,Organic,Desktop,,1,0,0,0,1999
+1383,05/02/2025,8338,Paid Ads,Tablet,Electronics,1,1,0,0,2499
+1384,07/03/2025,8059,Organic,Mobile,Fashion,1,0,,0,799
+1385,14/06/2025,8001,Referral,,Electronics,0,1,0,1,
+1386,11/03/2025,5010,Paid Ads,Desktop,,1,0,0,0,1999
+1387,23/12/2024,6582,Organic,Mobile,Sports,1,0,0,0,1299
+1388,16/03/2025,6225,Organic,Desktop,Beauty,1,,0,0,3499
+1389,07/04/2025,6099,Paid Ads,,Fashion,0,1,1,0,2499
+1390,25/11/2024,8300,Social,Mobile,Beauty,1,1,0,0,3499
+1391,04/06/2025,8639,,Tablet,,0,0,1,0,1999
+1392,15/12/2024,8681,Referral,Mobile,Sports,0,0,1,1,1999
+1393,21/04/2025,6427,,Mobile,,1,1,1,0,0
+1394,18/02/2025,8763,Email,Mobile,,1,0,0,1,1999
+1395,09/06/2025,8297,Paid Ads,Tablet,Electronics,1,1,1,1,3499
+1396,09/02/2025,6063,Social,,Fashion,1,0,1,0,1299
+1397,22/11/2024,6874,,Tablet,Home & Kitchen,1,,,0,1299
+1398,28/03/2025,8372,,Desktop,Beauty,1,1,0,0,1999
+1399,05/02/2025,8525,Referral,Desktop,Beauty,1,0,0,0,1299
+1400,17/12/2024,8411,Referral,Tablet,Fashion,1,0,0,0,0
+1401,21/02/2025,6888,Social,Desktop,Fashion,1,,1,,2499
+1402,04/05/2025,8192,Paid Ads,Desktop,Electronics,1,0,0,0,1999
+1403,28/05/2025,7564,Referral,,Electronics,1,1,0,0,2499
+1404,11/06/2025,8000,Paid Ads,Tablet,Sports,0,1,0,,799
+1405,21/10/2024,8369,Organic,Mobile,Beauty,0,,1,1,1299
+1406,07/10/2024,8550,Referral,Mobile,Beauty,1,1,0,,799
+1407,25/11/2024,6603,,Mobile,Beauty,1,0,1,0,1299
+1408,03/01/2025,5939,Paid Ads,Desktop,Beauty,1,0,,0,1299
+1409,04/03/2025,8983,Email,Mobile,,,0,0,1,0
+1410,14/02/2025,6342,,Desktop,Fashion,1,1,0,0,3499
+1411,15/10/2024,6445,Referral,,,1,0,0,0,1299
+1412,24/01/2025,7466,Referral,,Beauty,1,1,1,0,3499
+1413,23/10/2024,5925,Organic,Tablet,Sports,1,1,0,0,
+1414,15/01/2025,7051,Paid Ads,Desktop,Beauty,1,0,0,0,2499
+1415,18/05/2025,7634,Organic,Tablet,,1,1,0,0,2499
+1416,31/03/2025,7023,Paid Ads,Tablet,,1,0,1,0,799
+1417,17/10/2024,8757,Referral,Desktop,Home & Kitchen,1,0,1,0,
+1418,30/06/2025,5080,Paid Ads,Mobile,Sports,1,1,1,1,
+1419,24/06/2025,7582,Organic,Tablet,Fashion,1,0,0,0,1299
+1420,29/04/2025,6416,Social,,Fashion,1,,0,0,1299
+1421,05/03/2025,8400,,,Electronics,0,0,0,0,1999
+1422,15/04/2025,6000,Organic,Desktop,,1,0,,0,799
+1423,22/05/2025,7569,Organic,Desktop,Home & Kitchen,1,1,0,,0
+1424,24/03/2025,5198,Paid Ads,,Home & Kitchen,1,0,1,1,3499
+1425,22/05/2025,6488,,Tablet,Beauty,1,0,1,0,799
+1426,09/01/2025,7742,Referral,Desktop,Fashion,,0,0,0,799
+1427,29/11/2024,6650,Email,Tablet,Beauty,1,1,0,0,2499
+1428,09/03/2025,8442,Email,,,1,0,0,0,2499
+1429,02/06/2025,6513,Referral,,,1,0,0,0,0
+1430,14/12/2024,7870,Email,Tablet,Sports,1,0,0,0,3499
+1431,17/01/2025,8649,Social,Desktop,Home & Kitchen,1,0,0,0,
+1432,17/02/2025,6305,Email,Tablet,Fashion,1,0,1,0,799
+1433,25/10/2024,8090,,Tablet,Beauty,1,1,0,1,3499
+1434,20/12/2024,5204,Referral,Mobile,Electronics,1,1,0,1,1999
+1435,30/04/2025,6625,Organic,,,0,0,0,0,1299
+1436,07/02/2025,8652,Paid Ads,,Home & Kitchen,1,0,,0,2499
+1437,05/10/2024,7746,Organic,Desktop,,0,0,,0,0
+1438,15/06/2025,8561,Social,Tablet,Beauty,0,1,0,1,1299
+1439,24/05/2025,5444,Organic,Mobile,Fashion,0,0,0,0,1299
+1440,18/05/2025,6132,,,Sports,1,1,1,0,799
+1441,26/05/2025,7946,Referral,Desktop,Fashion,1,0,1,0,1299
+1442,25/06/2025,6115,Social,Desktop,Beauty,1,0,0,0,1299
+1443,11/05/2025,7470,Social,Mobile,Fashion,1,0,0,0,1299
+1444,11/04/2025,8230,,Tablet,Fashion,0,,0,0,799
+1445,07/03/2025,6792,,Mobile,Fashion,1,0,1,0,1299
+1446,07/11/2024,5359,Social,Mobile,,1,0,1,,1299
+1447,04/05/2025,5128,Email,Mobile,Beauty,0,0,0,0,3499
+1448,10/11/2024,5178,Referral,Desktop,Home & Kitchen,1,1,0,0,
+1449,01/02/2025,7603,Organic,Tablet,Home & Kitchen,1,,1,0,3499
+1450,18/10/2024,8716,Organic,Tablet,Beauty,1,1,0,1,2499
+1451,21/03/2025,8548,,Desktop,,1,0,0,1,2499
+1452,21/04/2025,5334,Social,Desktop,Sports,1,,0,0,3499
+1453,29/12/2024,7530,Social,Tablet,Electronics,1,0,1,0,3499
+1454,07/04/2025,8408,Paid Ads,,Sports,1,0,0,1,3499
+1455,19/03/2025,7373,Referral,,,1,0,0,0,
+1456,25/11/2024,8418,Social,Tablet,Electronics,1,,0,0,1299
+1457,01/05/2025,6916,Referral,Tablet,,1,0,0,1,3499
+1458,21/04/2025,5761,Email,Tablet,Home & Kitchen,1,0,1,1,799
+1459,09/06/2025,6026,Paid Ads,Desktop,Home & Kitchen,1,0,0,0,1999
+1460,10/05/2025,6398,Referral,Desktop,,0,1,0,0,1299
+1461,02/11/2024,7634,Email,,Electronics,1,1,1,1,0
+1462,09/02/2025,8091,Paid Ads,Tablet,Electronics,,0,0,,1999
+1463,15/10/2024,7990,Email,Tablet,Sports,1,0,1,0,
+1464,09/06/2025,5269,Email,,Electronics,1,0,0,1,799
+1465,27/06/2025,5601,Organic,Mobile,Electronics,1,0,0,0,1299
+1466,03/11/2024,8649,Email,,Home & Kitchen,0,0,0,0,3499
+1467,21/05/2025,8337,Referral,Desktop,Fashion,1,0,,0,799
+1468,09/06/2025,8613,Referral,Mobile,Beauty,1,,0,0,2499
+1469,22/06/2025,5124,Paid Ads,Mobile,,1,0,1,0,1299
+1470,03/01/2025,7225,Social,,Electronics,1,1,0,0,
+1471,30/04/2025,8566,Paid Ads,Mobile,Home & Kitchen,1,0,0,0,0
+1472,14/02/2025,7145,Social,Mobile,,1,1,1,0,3499
+1473,09/12/2024,8040,Email,Desktop,Home & Kitchen,1,0,,0,1299
+1474,04/06/2025,7029,Email,Mobile,,1,0,0,0,1999
+1475,27/05/2025,5286,Organic,Mobile,Fashion,1,0,0,1,0
+1476,17/04/2025,6635,Social,Desktop,Fashion,1,1,0,,3499
+1477,25/02/2025,7007,Paid Ads,Desktop,Sports,1,0,0,0,3499
+1478,31/10/2024,5228,Paid Ads,Desktop,Fashion,1,0,0,0,0
+1479,29/03/2025,8104,Referral,,,1,,0,0,3499
+1480,10/03/2025,6977,Social,,Electronics,1,0,0,1,799
+1481,28/03/2025,8512,Organic,Desktop,,1,1,,0,1299
+1482,07/02/2025,5020,Paid Ads,,Fashion,0,0,0,1,0
+1483,06/03/2025,7989,Referral,Desktop,Fashion,,0,1,,3499
+1484,26/10/2024,8940,Social,Mobile,Electronics,1,1,0,0,1999
+1485,12/05/2025,8566,,,Sports,1,0,1,0,
+1486,21/12/2024,5804,,Desktop,Beauty,,0,1,0,1999
+1487,07/06/2025,7439,Social,Desktop,Electronics,1,0,0,0,2499
+1488,06/06/2025,5252,Social,Mobile,Home & Kitchen,1,1,0,0,1299
+1489,28/06/2025,8792,,Desktop,,1,1,,0,799
+1490,17/01/2025,5312,Referral,,Beauty,1,0,0,0,
+1491,03/06/2025,6676,Social,Mobile,,1,,1,0,0
+1492,01/03/2025,5787,Social,Desktop,Fashion,1,0,0,1,
+1493,17/02/2025,6152,Paid Ads,,Electronics,0,,0,0,3499
+1494,23/11/2024,8010,Organic,Desktop,Home & Kitchen,1,1,,0,799
+1495,17/04/2025,6997,Social,Tablet,Electronics,1,1,0,1,2499
+1496,22/04/2025,6218,Referral,,,0,0,1,0,1999
+1497,21/03/2025,7843,Email,,,1,1,,1,
+1498,09/04/2025,7939,Referral,Mobile,,1,0,0,0,1999
+1499,14/10/2024,6506,Organic,Desktop,Beauty,1,0,0,0,1999
+1500,07/01/2025,8190,Social,Tablet,Fashion,1,0,0,0,
+1501,01/06/2025,7099,Email,Desktop,,1,0,0,0,2499
+1502,17/06/2025,8081,Email,,Fashion,1,,0,,1999
+1503,28/11/2024,7579,Referral,Mobile,,1,0,0,0,1999
+1504,20/11/2024,7486,Referral,Desktop,,,,1,0,799
+1505,04/12/2024,6741,Paid Ads,Mobile,,1,0,,0,1299
+1506,20/06/2025,7728,Email,Tablet,Electronics,1,0,0,0,
+1507,16/03/2025,5518,Email,Tablet,Fashion,1,0,0,0,2499
+1508,26/11/2024,5688,,Mobile,,1,0,1,0,1999
+1509,28/03/2025,7500,Organic,Mobile,Electronics,1,0,0,0,0
+1510,27/05/2025,7559,Organic,Tablet,Beauty,1,0,0,0,799
+1511,08/06/2025,8177,Email,Tablet,Electronics,0,1,0,,1299
+1512,31/01/2025,5801,Referral,,Home & Kitchen,1,0,,0,2499
+1513,21/04/2025,6101,,Mobile,Home & Kitchen,1,0,1,0,2499
+1514,11/10/2024,7329,,Mobile,,1,0,0,,799
+1515,17/01/2025,8321,Email,Mobile,,1,0,0,0,0
+1516,26/06/2025,5593,Email,,,1,0,0,0,799
+1517,30/06/2025,7993,Email,Mobile,Sports,1,0,0,0,1999
+1518,09/04/2025,6682,Referral,Desktop,,1,0,0,0,1999
+1519,22/05/2025,6283,,Tablet,,1,,0,0,3499
+1520,23/10/2024,6116,Email,Mobile,,1,0,0,1,1299
+1521,14/04/2025,6459,Email,Tablet,,1,0,0,0,3499
+1522,30/11/2024,8542,Referral,Mobile,Home & Kitchen,1,0,1,0,3499
+1523,21/02/2025,7180,Social,Desktop,,1,0,0,0,0
+1524,15/10/2024,7057,Social,Desktop,,1,0,1,1,2499
+1525,31/01/2025,5474,Email,Tablet,Electronics,1,0,0,,0
+1526,17/12/2024,6325,Organic,Mobile,,1,0,,0,0
+1527,16/04/2025,8572,Email,Tablet,Sports,0,0,0,0,1299
+1528,21/01/2025,6832,Social,Mobile,Home & Kitchen,1,1,0,0,0
+1529,31/05/2025,7213,Organic,Mobile,Fashion,1,1,0,0,799
+1530,02/05/2025,7864,Social,Mobile,,1,,0,1,
+1531,21/04/2025,7941,Email,Desktop,Home & Kitchen,1,0,1,1,3499
+1532,27/12/2024,7837,,Desktop,Beauty,,0,0,0,0
+1533,24/11/2024,8022,Organic,Desktop,,1,0,1,1,799
+1534,13/01/2025,8503,,Mobile,,,0,0,0,
+1535,03/04/2025,8711,Email,,Fashion,,0,1,1,
+1536,07/10/2024,5159,Email,,Fashion,1,1,0,,3499
+1537,27/04/2025,5853,Social,,,1,0,0,1,
+1538,14/06/2025,5973,Referral,Desktop,Home & Kitchen,,1,1,0,799
+1539,08/02/2025,7424,,,Fashion,1,,1,0,0
+1540,30/11/2024,5727,,,,1,1,1,1,3499
+1541,05/11/2024,8732,Referral,Tablet,Electronics,1,0,1,0,799
+1542,28/05/2025,6862,Paid Ads,Desktop,Beauty,1,0,1,0,0
+1543,27/11/2024,6761,,,Electronics,1,0,1,0,1999
+1544,11/10/2024,8182,Paid Ads,Desktop,,1,1,1,0,0
+1545,21/01/2025,5709,Social,Tablet,Sports,1,0,0,0,0
+1546,26/06/2025,8113,Referral,,Home & Kitchen,1,1,0,0,2499
+1547,13/01/2025,5015,Email,Desktop,Electronics,1,1,,0,799
+1548,09/01/2025,8037,Paid Ads,Desktop,,1,0,0,0,0
+1549,23/11/2024,6383,Referral,Mobile,Home & Kitchen,1,0,0,0,1999
+1550,01/12/2024,5401,Paid Ads,Tablet,,1,1,,0,3499
+1551,07/06/2025,7031,,Tablet,Beauty,1,0,0,0,0
+1552,15/05/2025,8475,Email,Desktop,,1,1,0,1,2499
+1553,01/03/2025,7041,Referral,Tablet,Home & Kitchen,0,0,0,,0
+1554,23/11/2024,5985,Referral,Tablet,Beauty,1,0,0,0,1999
+1555,30/12/2024,5579,Organic,Tablet,Beauty,0,0,0,0,1299
+1556,25/11/2024,7961,Email,Mobile,Home & Kitchen,1,0,0,0,1299
+1557,20/06/2025,7623,Email,Mobile,Electronics,1,0,0,0,
+1558,10/02/2025,8359,Social,Mobile,Electronics,1,,0,0,1299
+1559,25/11/2024,5657,Email,,Electronics,1,0,0,1,1999
+1560,03/01/2025,6262,Paid Ads,,Fashion,1,0,0,0,1999
+1561,31/01/2025,5332,Paid Ads,Desktop,Home & Kitchen,1,0,,,0
+1562,18/02/2025,8743,Paid Ads,,Home & Kitchen,1,1,1,1,2499
+1563,27/04/2025,7404,Email,Mobile,Fashion,0,0,1,0,1299
+1564,10/05/2025,7573,Email,Mobile,Home & Kitchen,1,0,1,0,1999
+1565,15/03/2025,5153,Paid Ads,Tablet,,1,0,0,0,2499
+1566,19/06/2025,5036,Email,Mobile,Beauty,1,1,0,0,799
+1567,16/06/2025,8012,Referral,,Home & Kitchen,1,0,0,0,3499
+1568,13/01/2025,6277,,Desktop,,1,1,0,1,
+1569,02/01/2025,6736,Referral,,Beauty,1,1,0,0,1999
+1570,19/03/2025,5714,Referral,,Electronics,1,0,0,0,799
+1571,29/03/2025,5966,Email,Desktop,,,0,0,0,3499
+1572,09/12/2024,7363,Referral,Mobile,Home & Kitchen,1,0,0,1,1299
+1573,28/02/2025,8615,Email,,Fashion,,1,1,0,
+1574,19/06/2025,5910,Email,Desktop,Beauty,1,1,0,0,3499
+1575,30/05/2025,7787,Referral,Desktop,Beauty,0,,0,1,2499
+1576,30/01/2025,5768,,Tablet,Home & Kitchen,0,0,0,1,2499
+1577,17/06/2025,8407,Paid Ads,Mobile,,0,1,0,0,2499
+1578,03/11/2024,5782,,Desktop,Home & Kitchen,,1,1,0,0
+1579,07/11/2024,7949,Referral,Desktop,Fashion,1,1,0,0,
+1580,17/12/2024,7385,Organic,Tablet,Home & Kitchen,1,1,,0,3499
+1581,04/12/2024,5033,Email,Desktop,Electronics,1,0,1,0,2499
+1582,06/03/2025,5849,Paid Ads,Tablet,,1,1,0,0,1999
+1583,19/04/2025,6167,Referral,,,1,0,,0,0
+1584,23/12/2024,7896,Organic,Mobile,Fashion,1,0,,1,1299
+1585,04/11/2024,5888,Email,,Sports,1,1,0,0,2499
+1586,10/06/2025,8030,Social,Desktop,Sports,1,1,0,0,0
+1587,28/02/2025,7208,Social,,Fashion,1,1,,0,0
+1588,02/01/2025,5765,,Desktop,Beauty,1,0,0,0,1299
+1589,27/04/2025,6687,Referral,Tablet,Fashion,1,1,0,0,0
+1590,18/10/2024,6597,Referral,Desktop,,1,0,0,0,2499
+1591,25/12/2024,7070,Email,,,1,0,1,1,1299
+1592,31/03/2025,8412,Referral,Mobile,Beauty,1,1,0,0,799
+1593,09/06/2025,5660,Social,Desktop,Fashion,0,,0,1,1999
+1594,23/12/2024,7910,Social,,Electronics,1,0,1,0,
+1595,20/05/2025,7045,Organic,,Home & Kitchen,1,0,0,0,1299
+1596,17/12/2024,5995,Social,Tablet,Electronics,1,0,0,0,0
+1597,13/12/2024,6231,,Mobile,Fashion,1,1,0,1,3499
+1598,19/02/2025,8673,Organic,Mobile,Fashion,1,1,0,0,
+1599,27/06/2025,7136,Paid Ads,Desktop,Fashion,1,0,0,0,2499
+1600,28/10/2024,7504,Referral,Mobile,Home & Kitchen,1,0,0,0,799
+1601,03/01/2025,8670,Referral,Mobile,Beauty,1,0,,0,799
+1602,24/10/2024,7357,,Mobile,Sports,1,1,0,0,0
+1603,11/11/2024,7967,Paid Ads,Desktop,Beauty,1,0,1,0,2499
+1604,09/03/2025,7247,Email,Tablet,Home & Kitchen,1,0,,1,3499
+1605,02/04/2025,7667,Organic,Mobile,Fashion,1,,,,2499
+1606,24/02/2025,8679,Referral,,,1,0,0,0,3499
+1607,30/12/2024,7013,Paid Ads,Desktop,Fashion,1,1,1,0,1999
+1608,18/03/2025,7587,Paid Ads,Mobile,Fashion,1,1,0,1,
+1609,04/06/2025,7349,Email,,,1,1,0,1,2499
+1610,04/05/2025,5755,Social,Mobile,Fashion,1,0,0,0,1999
+1611,22/12/2024,7453,,Mobile,,1,1,0,0,
+1612,09/05/2025,7139,,Desktop,,1,0,0,0,3499
+1613,29/12/2024,6689,Paid Ads,Tablet,,1,0,0,0,1299
+1614,18/10/2024,7437,,,Fashion,1,1,1,0,0
+1615,23/05/2025,8530,Referral,Mobile,,1,0,,0,1999
+1616,26/02/2025,5829,Social,Tablet,Sports,,,0,0,799
+1617,19/11/2024,8442,,Desktop,Home & Kitchen,1,,0,0,1299
+1618,29/12/2024,6439,Referral,,Home & Kitchen,1,0,0,0,0
+1619,10/10/2024,5675,Paid Ads,Desktop,Home & Kitchen,1,0,1,0,2499
+1620,12/05/2025,8467,,Tablet,Fashion,1,1,0,0,1999
+1621,08/06/2025,7168,Paid Ads,Mobile,,1,0,0,0,2499
+1622,23/12/2024,6437,Email,Mobile,,1,1,1,0,1999
+1623,08/10/2024,6463,Referral,,Beauty,1,0,0,0,3499
+1624,10/11/2024,8098,Organic,,Beauty,0,0,0,0,1999
+1625,17/06/2025,6276,Email,Mobile,Fashion,0,0,0,0,0
+1626,20/01/2025,7176,Email,Desktop,Sports,1,1,0,0,799
+1627,08/02/2025,8869,Paid Ads,Mobile,Sports,1,0,0,,1299
+1628,26/11/2024,7386,,,,1,1,0,0,3499
+1629,23/05/2025,8024,Paid Ads,Mobile,Beauty,1,0,0,1,3499
+1630,14/03/2025,5335,,Tablet,,1,1,0,,2499
+1631,04/06/2025,5861,Social,Mobile,Electronics,1,0,1,0,799
+1632,18/05/2025,7373,Email,Mobile,Home & Kitchen,1,0,0,0,1999
+1633,13/01/2025,5354,Email,Desktop,Beauty,0,1,0,1,1299
+1634,07/05/2025,5232,Paid Ads,Tablet,Beauty,1,1,0,0,1299
+1635,15/10/2024,5067,Social,Desktop,Sports,1,1,1,0,1999
+1636,21/03/2025,5233,,Desktop,,1,,0,0,
+1637,10/05/2025,6550,Referral,Tablet,Electronics,,1,,0,0
+1638,10/04/2025,8325,Paid Ads,Desktop,,1,0,0,0,2499
+1639,15/01/2025,7374,Paid Ads,Desktop,Electronics,,1,0,0,
+1640,27/10/2024,5775,Paid Ads,Mobile,Beauty,1,1,0,0,3499
+1641,23/05/2025,6086,Organic,Mobile,Home & Kitchen,1,1,1,1,1299
+1642,02/01/2025,7059,,Desktop,Beauty,1,1,1,0,2499
+1643,06/12/2024,7169,Organic,Mobile,Sports,1,0,0,0,
+1644,04/12/2024,7941,Referral,Mobile,Home & Kitchen,0,0,0,0,1999
+1645,13/01/2025,5287,Social,Tablet,Sports,1,1,0,0,3499
+1646,26/06/2025,7864,Paid Ads,Desktop,Home & Kitchen,1,0,0,,1999
+1647,07/04/2025,5989,Referral,,Sports,0,1,0,0,2499
+1648,10/12/2024,8020,Paid Ads,,,,0,0,0,3499
+1649,14/12/2024,6785,Social,Desktop,Home & Kitchen,1,1,1,0,1999
+1650,30/03/2025,6515,Referral,,Beauty,1,0,0,0,3499
+1651,26/11/2024,8636,Organic,,Beauty,1,1,1,0,
+1652,07/12/2024,8254,Social,,Beauty,0,1,0,0,799
+1653,15/05/2025,6174,Organic,Tablet,Electronics,,1,0,0,2499
+1654,22/05/2025,6737,,Desktop,Home & Kitchen,1,0,0,,0
+1655,22/04/2025,6623,,Tablet,Beauty,,1,1,,1299
+1656,14/06/2025,7092,Email,Mobile,,1,0,1,0,0
+1657,17/02/2025,7712,Social,Desktop,Beauty,1,0,0,0,3499
+1658,19/02/2025,5626,Organic,Tablet,Electronics,1,0,0,1,3499
+1659,25/02/2025,8221,Paid Ads,Tablet,Electronics,1,0,,0,799
+1660,27/10/2024,8388,,Tablet,Sports,1,0,1,0,1299
+1661,10/02/2025,5825,Paid Ads,Tablet,Electronics,1,,1,0,799
+1662,19/01/2025,8741,Referral,,Sports,1,0,1,0,1299
+1663,26/05/2025,8056,Referral,Desktop,Beauty,0,1,,1,1999
+1664,01/06/2025,5781,Social,Mobile,Home & Kitchen,1,0,0,0,3499
+1665,27/02/2025,5341,Paid Ads,Desktop,Electronics,1,1,1,0,1299
+1666,24/06/2025,8323,Email,Mobile,Home & Kitchen,1,1,1,0,2499
+1667,01/12/2024,5832,Paid Ads,Mobile,,0,1,1,0,799
+1668,30/03/2025,8494,Referral,Desktop,,0,0,,0,1999
+1669,17/06/2025,7184,Email,Tablet,,0,0,0,0,1299
+1670,31/12/2024,5599,Email,Mobile,,1,1,0,1,2499
+1671,16/03/2025,6771,Paid Ads,,Beauty,0,1,,0,
+1672,06/05/2025,5772,Social,Tablet,,0,0,0,1,1299
+1673,05/05/2025,7620,Organic,Tablet,Beauty,0,0,0,0,3499
+1674,17/06/2025,5229,,Tablet,Home & Kitchen,1,0,1,0,1999
+1675,10/12/2024,7387,Social,,Electronics,1,1,0,0,2499
+1676,29/11/2024,7836,Paid Ads,Mobile,Home & Kitchen,1,0,1,1,
+1677,16/03/2025,6925,Paid Ads,,,1,0,0,1,799
+1678,21/06/2025,6634,Email,Mobile,Electronics,0,0,0,0,
+1679,28/03/2025,7141,Social,Tablet,Fashion,1,1,0,0,2499
+1680,07/02/2025,7902,,Tablet,,1,1,0,0,3499
+1681,10/01/2025,5855,Referral,Mobile,Electronics,1,0,0,0,1999
+1682,15/10/2024,6700,,,,0,1,0,,
+1683,18/01/2025,6430,Organic,Tablet,Electronics,1,1,0,0,3499
+1684,25/06/2025,6806,,Tablet,Fashion,,0,0,0,799
+1685,15/03/2025,5736,Organic,Desktop,Home & Kitchen,1,0,0,0,799
+1686,22/06/2025,7479,Email,Tablet,Home & Kitchen,1,0,1,1,3499
+1687,09/04/2025,6389,Email,Tablet,Beauty,1,1,0,0,2499
+1688,11/12/2024,6604,Organic,Desktop,,0,1,0,0,3499
+1689,31/01/2025,8872,Referral,Desktop,Sports,1,1,0,0,0
+1690,15/12/2024,5865,Organic,Mobile,Fashion,1,0,0,0,1299
+1691,19/11/2024,6003,Paid Ads,Desktop,Sports,1,1,0,0,1299
+1692,21/03/2025,6193,Organic,Mobile,Beauty,1,0,,0,2499
+1693,02/04/2025,6064,Email,,Sports,1,0,0,0,0
+1694,14/02/2025,7961,Email,Tablet,Electronics,1,,,,799
+1695,17/05/2025,5453,Paid Ads,Tablet,,1,1,1,0,799
+1696,22/12/2024,6443,,Desktop,Home & Kitchen,1,1,0,0,
+1697,23/03/2025,7835,Paid Ads,Mobile,Fashion,1,0,0,0,
+1698,26/05/2025,8658,Social,,Sports,0,0,0,0,799
+1699,16/02/2025,6155,Social,Tablet,Fashion,0,1,0,0,1999
+1700,17/01/2025,5141,Social,Tablet,Sports,0,1,0,0,1999
+1701,01/12/2024,5677,Email,,Sports,1,0,0,1,3499
+1702,01/04/2025,6398,Email,Mobile,Sports,1,0,1,0,0
+1703,13/12/2024,6830,Paid Ads,,Electronics,1,1,0,0,799
+1704,14/06/2025,7014,Paid Ads,Tablet,,1,0,0,1,1299
+1705,18/11/2024,7850,Social,Desktop,,0,0,0,,1999
+1706,27/10/2024,5069,Organic,Desktop,Beauty,1,1,0,0,0
+1707,09/01/2025,5874,Email,Mobile,,1,,0,0,
+1708,28/03/2025,5291,Social,,Beauty,1,0,0,0,1299
+1709,19/12/2024,8011,Referral,Mobile,Electronics,0,1,0,0,3499
+1710,25/10/2024,6272,Organic,Desktop,Home & Kitchen,1,0,0,0,1299
+1711,16/04/2025,7427,Email,Desktop,Sports,0,1,0,0,0
+1712,10/12/2024,6516,Referral,Desktop,Home & Kitchen,0,0,0,0,799
+1713,01/04/2025,5204,Organic,Tablet,Electronics,1,0,1,0,3499
+1714,19/05/2025,7962,Organic,Desktop,,1,0,1,0,1999
+1715,13/06/2025,7929,Referral,Desktop,,1,1,1,0,1999
+1716,31/03/2025,8401,,,Home & Kitchen,1,0,0,0,2499
+1717,02/10/2024,7913,Social,Mobile,Beauty,0,1,0,0,1299
+1718,17/12/2024,8419,,Desktop,Sports,1,0,0,1,0
+1719,10/04/2025,6850,,,Beauty,1,1,0,0,3499
+1720,01/11/2024,5980,Paid Ads,Mobile,,1,1,0,1,0
+1721,02/04/2025,5438,,,Sports,1,0,0,0,2499
+1722,06/10/2024,5438,Social,Tablet,Home & Kitchen,1,,0,0,799
+1723,07/02/2025,7194,Email,Mobile,,1,1,0,1,
+1724,05/03/2025,8682,Email,Desktop,Fashion,1,0,1,0,
+1725,16/02/2025,7012,Organic,,,1,1,,0,1999
+1726,16/05/2025,5766,Organic,Desktop,,1,,1,0,0
+1727,12/01/2025,5708,,Mobile,Home & Kitchen,1,0,0,1,1299
+1728,08/06/2025,7936,Referral,Desktop,,1,1,0,0,3499
+1729,27/10/2024,8807,Referral,,,1,,0,1,3499
+1730,27/03/2025,8982,Email,Desktop,Sports,1,0,1,0,1299
+1731,21/04/2025,5211,,Desktop,Beauty,1,0,0,1,1299
+1732,25/02/2025,7952,Social,Tablet,Fashion,1,1,0,0,2499
+1733,01/11/2024,8722,Paid Ads,Mobile,Sports,1,0,0,0,1999
+1734,23/01/2025,7061,Email,Desktop,,1,,0,0,
+1735,30/11/2024,6888,Referral,Tablet,,1,,0,0,1299
+1736,28/01/2025,6353,Referral,Tablet,,1,0,0,0,1299
+1737,26/02/2025,6927,Social,,Home & Kitchen,,0,0,0,
+1738,05/04/2025,8239,Social,Mobile,Beauty,,0,0,0,2499
+1739,02/05/2025,8733,,Tablet,Sports,1,1,0,0,2499
+1740,12/03/2025,6002,Social,Mobile,Beauty,1,1,0,0,799
+1741,30/01/2025,7595,,Mobile,Home & Kitchen,1,0,0,0,1299
+1742,09/10/2024,7107,Social,Desktop,Home & Kitchen,1,1,0,1,3499
+1743,27/10/2024,5144,Paid Ads,,Sports,1,1,0,1,1999
+1744,04/03/2025,7678,Email,Desktop,Electronics,1,1,0,0,799
+1745,02/12/2024,8437,Email,Desktop,,1,1,,0,2499
+1746,21/02/2025,5639,Paid Ads,,,1,0,1,0,3499
+1747,10/12/2024,7205,,,Fashion,1,0,0,0,2499
+1748,26/03/2025,7298,Social,Desktop,Beauty,1,1,0,0,2499
+1749,15/06/2025,8332,,Tablet,Sports,0,1,,0,0
+1750,22/04/2025,6558,Email,,Fashion,0,0,1,0,0
+1751,19/01/2025,5046,Referral,Desktop,Beauty,0,0,0,1,0
+1752,24/12/2024,5714,Paid Ads,Mobile,Electronics,1,1,0,0,0
+1753,23/06/2025,8591,Referral,Mobile,Home & Kitchen,1,1,0,0,1999
+1754,19/12/2024,6759,Social,Tablet,Beauty,0,1,0,,3499
+1755,05/04/2025,8306,Social,,,0,1,0,0,
+1756,14/04/2025,6243,Organic,Mobile,Sports,1,1,0,0,3499
+1757,03/03/2025,7591,Social,Desktop,Electronics,1,0,,0,
+1758,24/01/2025,7477,Email,Mobile,Electronics,1,1,0,0,1999
+1759,25/04/2025,7333,Social,Desktop,Home & Kitchen,1,0,0,0,
+1760,12/10/2024,7111,Referral,Desktop,Fashion,1,0,0,1,799
+1761,18/03/2025,5006,Email,Desktop,,1,0,0,0,0
+1762,19/12/2024,8021,Paid Ads,Tablet,Beauty,1,0,,1,3499
+1763,30/11/2024,7409,Paid Ads,Tablet,Home & Kitchen,1,1,1,,799
+1764,03/05/2025,7791,Social,,Electronics,1,0,0,0,799
+1765,02/01/2025,7691,Social,Desktop,,1,0,0,0,1299
+1766,31/10/2024,7555,Organic,,Home & Kitchen,1,1,0,0,3499
+1767,14/06/2025,5460,Referral,Mobile,Fashion,0,1,,0,0
+1768,23/10/2024,7666,,Desktop,Beauty,1,1,0,0,799
+1769,15/10/2024,5759,,Mobile,Home & Kitchen,1,1,0,0,
+1770,28/03/2025,5774,,Mobile,,,1,1,1,1999
+1771,15/05/2025,6542,,Desktop,Sports,1,,0,0,
+1772,15/10/2024,8424,Organic,Desktop,,1,1,0,0,0
+1773,11/01/2025,8154,Email,Desktop,Fashion,1,1,1,0,1299
+1774,12/11/2024,6744,,Desktop,Home & Kitchen,1,0,0,0,1999
+1775,14/05/2025,6776,Paid Ads,Mobile,Electronics,1,1,0,1,2499
+1776,18/02/2025,6275,Social,Desktop,Sports,1,0,1,0,1299
+1777,22/02/2025,7694,Organic,Mobile,Home & Kitchen,1,0,0,0,1299
+1778,24/02/2025,6866,Referral,,Fashion,1,1,0,0,1299
+1779,26/12/2024,6294,Paid Ads,Desktop,,1,1,0,0,799
+1780,25/06/2025,7531,,Tablet,,0,,0,0,799
+1781,23/05/2025,8998,Referral,Mobile,Home & Kitchen,1,0,0,0,1999
+1782,14/02/2025,5460,Paid Ads,Mobile,Home & Kitchen,1,0,0,1,1999
+1783,29/12/2024,7406,Email,,Sports,1,,0,0,1999
+1784,22/06/2025,8763,Organic,Mobile,,1,0,0,0,799
+1785,01/06/2025,5947,Organic,Mobile,,1,,0,0,2499
+1786,17/01/2025,8581,Organic,Desktop,,1,0,1,0,1299
+1787,06/05/2025,7018,Email,,Fashion,1,0,0,0,799
+1788,25/11/2024,5954,Organic,Tablet,,0,1,0,0,799
+1789,13/04/2025,6947,Organic,Tablet,Fashion,1,0,0,0,799
+1790,18/02/2025,7786,Paid Ads,Mobile,Electronics,1,0,0,0,1999
+1791,13/01/2025,8974,Referral,,Home & Kitchen,1,0,0,0,0
+1792,29/04/2025,6056,Paid Ads,Mobile,Electronics,1,1,0,0,2499
+1793,25/03/2025,5648,Referral,Desktop,Electronics,1,0,0,0,0
+1794,04/11/2024,6526,,,Beauty,1,1,1,0,3499
+1795,15/11/2024,5066,Paid Ads,Mobile,Beauty,1,0,0,1,2499
+1796,28/10/2024,8431,Paid Ads,Mobile,,1,1,0,0,2499
+1797,21/10/2024,7091,Organic,Mobile,Electronics,0,0,1,0,
+1798,01/01/2025,8265,Referral,Desktop,Electronics,1,0,1,0,799
+1799,04/04/2025,7350,Email,Mobile,Electronics,1,1,0,1,1999
+1800,12/01/2025,7438,Paid Ads,Desktop,Home & Kitchen,1,0,0,,1999
+1801,14/01/2025,7939,Social,Mobile,Electronics,0,0,0,0,
+1802,21/06/2025,8338,Social,,,1,0,0,0,1299
+1803,24/12/2024,8873,Paid Ads,,,1,1,0,,1999
+1804,27/01/2025,5843,Email,Desktop,Home & Kitchen,0,0,1,0,1299
+1805,10/04/2025,5726,Email,Tablet,Sports,1,,0,0,799
+1806,15/03/2025,5006,Paid Ads,Tablet,Electronics,1,0,,0,1999
+1807,18/04/2025,7653,Referral,Mobile,Fashion,1,1,0,,0
+1808,22/05/2025,5747,Email,Desktop,Home & Kitchen,1,0,1,0,0
+1809,03/10/2024,6126,Paid Ads,Desktop,Home & Kitchen,1,1,1,0,0
+1810,11/12/2024,6226,Social,Desktop,Electronics,1,0,0,0,0
+1811,18/02/2025,5640,Email,Mobile,Electronics,,0,,0,2499
+1812,17/11/2024,5696,Referral,Mobile,Electronics,0,0,0,0,799
+1813,14/05/2025,8674,Email,Tablet,,1,0,1,1,
+1814,09/01/2025,7879,,Desktop,Electronics,0,1,0,0,799
+1815,01/03/2025,6653,Paid Ads,Tablet,Home & Kitchen,1,1,,0,0
+1816,18/02/2025,6772,Referral,Desktop,Home & Kitchen,1,,0,1,799
+1817,19/03/2025,5331,Social,Mobile,Beauty,1,0,0,0,2499
+1818,14/03/2025,6461,Organic,Desktop,Electronics,1,0,1,0,1299
+1819,15/10/2024,8578,Email,,Home & Kitchen,1,0,0,0,799
+1820,03/06/2025,7211,,Tablet,,1,,0,0,0
+1821,27/01/2025,7466,Paid Ads,,Home & Kitchen,1,1,0,0,1299
+1822,03/02/2025,7800,Organic,Mobile,Fashion,1,1,1,0,3499
+1823,21/04/2025,7592,Social,,Beauty,1,0,0,0,
+1824,29/04/2025,8280,Social,Tablet,Fashion,1,0,0,0,799
+1825,05/10/2024,6522,Email,Mobile,Sports,1,1,0,0,0
+1826,07/10/2024,6778,Referral,,Fashion,1,0,0,0,
+1827,14/04/2025,6677,Paid Ads,,,1,0,,0,1999
+1828,19/11/2024,5738,Social,Tablet,,1,0,0,0,1999
+1829,12/10/2024,6270,Email,Mobile,,1,0,0,0,2499
+1830,18/03/2025,7565,Organic,Mobile,Sports,0,0,1,0,0
+1831,15/02/2025,7675,Referral,Tablet,Beauty,1,1,,0,1999
+1832,25/11/2024,5125,,,,,1,0,0,799
+1833,20/03/2025,6840,Organic,Mobile,Sports,1,0,1,0,3499
+1834,15/04/2025,7713,,Tablet,Home & Kitchen,1,0,1,0,3499
+1835,29/06/2025,6206,Email,,,1,0,0,0,3499
+1836,15/05/2025,8477,Organic,Tablet,Fashion,1,,0,0,3499
+1837,01/05/2025,6011,Organic,Desktop,,1,1,0,0,3499
+1838,26/03/2025,8856,Referral,Tablet,Home & Kitchen,1,1,1,1,1299
+1839,05/11/2024,5398,Organic,Mobile,Home & Kitchen,1,1,1,1,3499
+1840,14/01/2025,7861,Email,Desktop,Beauty,1,,0,,0
+1841,29/06/2025,8952,Social,Desktop,Fashion,1,1,0,1,
+1842,02/04/2025,8092,Organic,Mobile,Sports,1,0,0,0,3499
+1843,10/06/2025,6708,,Mobile,Beauty,1,0,1,1,
+1844,19/10/2024,6989,,Desktop,Electronics,1,0,0,0,1999
+1845,10/06/2025,6786,Organic,,,1,0,,0,1299
+1846,07/04/2025,8208,,Tablet,Home & Kitchen,1,1,0,0,0
+1847,23/10/2024,6830,Social,,Electronics,1,,0,,0
+1848,23/11/2024,5927,,Desktop,Sports,1,0,0,1,0
+1849,20/11/2024,7790,,Mobile,Home & Kitchen,1,0,1,0,2499
+1850,09/01/2025,5640,Organic,Desktop,,1,0,0,0,2499
+1851,18/01/2025,5111,Organic,Mobile,Fashion,1,,0,,1999
+1852,11/06/2025,7451,Paid Ads,Desktop,Fashion,,1,0,0,1999
+1853,27/12/2024,7338,Referral,Mobile,,1,0,0,0,3499
+1854,27/03/2025,5744,Paid Ads,Tablet,Beauty,1,0,1,0,0
+1855,30/10/2024,5312,Social,Desktop,,,0,1,0,1999
+1856,02/10/2024,5249,,Mobile,,,,0,0,3499
+1857,16/11/2024,5962,Referral,Mobile,Fashion,1,,0,0,3499
+1858,03/02/2025,8248,,Tablet,,1,,0,,
+1859,07/12/2024,5859,Paid Ads,Tablet,Home & Kitchen,,0,0,0,0
+1860,07/11/2024,8155,Social,Tablet,Home & Kitchen,1,1,0,0,0
+1861,13/05/2025,8173,,Mobile,,1,0,0,0,1999
+1862,01/02/2025,6409,Social,,Beauty,1,0,1,0,1999
+1863,15/04/2025,5152,,Desktop,Home & Kitchen,1,0,0,0,2499
+1864,03/06/2025,7464,Organic,,Sports,1,0,1,0,0
+1865,25/12/2024,6682,Email,,Fashion,1,1,1,1,799
+1866,04/06/2025,7292,Email,,Fashion,0,0,1,0,799
+1867,20/06/2025,7797,,Desktop,Beauty,1,1,0,0,2499
+1868,07/12/2024,5556,Organic,Tablet,Beauty,1,1,0,1,1299
+1869,28/10/2024,6950,Social,,Sports,1,0,0,1,3499
+1870,26/06/2025,5885,Referral,,,1,1,,0,2499
+1871,26/04/2025,7905,Paid Ads,,Home & Kitchen,1,1,0,0,799
+1872,13/02/2025,6754,Referral,,Beauty,1,,0,0,3499
+1873,14/04/2025,6959,Referral,Tablet,,1,0,0,0,1299
+1874,25/10/2024,5958,Paid Ads,Mobile,Beauty,1,1,,,3499
+1875,29/12/2024,8986,Organic,,Beauty,0,,,1,
+1876,18/11/2024,7631,Referral,Tablet,Sports,1,0,0,0,1299
+1877,31/03/2025,8352,Social,,Beauty,1,0,0,1,3499
+1878,01/12/2024,6287,Organic,Tablet,,1,0,1,,0
+1879,25/05/2025,5600,Social,Tablet,,1,1,0,0,799
+1880,15/10/2024,6483,Social,Desktop,,0,1,0,0,2499
+1881,17/06/2025,8741,Email,,Home & Kitchen,1,1,0,0,1299
+1882,21/10/2024,6072,Email,Desktop,,1,,0,,
+1883,29/06/2025,6235,Email,Mobile,Sports,0,0,1,,0
+1884,17/10/2024,6667,Referral,Mobile,Beauty,1,1,0,1,2499
+1885,04/06/2025,6168,Social,Desktop,,1,0,0,0,1299
+1886,20/06/2025,7375,Referral,Desktop,Electronics,1,0,0,0,1299
+1887,05/03/2025,6104,,Desktop,Sports,1,1,,0,3499
+1888,03/10/2024,7271,Organic,Mobile,,1,0,0,0,
+1889,15/03/2025,8029,Social,Mobile,Beauty,1,1,1,0,
+1890,10/11/2024,6976,Organic,Desktop,,1,1,0,0,0
+1891,04/03/2025,8796,Referral,Mobile,Beauty,1,,,0,1299
+1892,20/04/2025,8049,Email,Mobile,Fashion,1,0,0,0,1299
+1893,20/06/2025,5391,Email,,,1,0,0,0,3499
+1894,31/05/2025,7994,Organic,Tablet,Sports,1,1,0,0,799
+1895,29/11/2024,7344,Organic,Tablet,Sports,1,0,0,0,
+1896,17/02/2025,5316,Organic,Desktop,Beauty,0,1,0,,1999
+1897,27/12/2024,6760,,Mobile,Sports,1,1,1,1,799
+1898,02/03/2025,8426,Email,Tablet,Beauty,0,1,0,0,1999
+1899,18/11/2024,7019,Referral,Tablet,Sports,1,,0,0,0
+1900,05/01/2025,6990,,Tablet,Fashion,1,0,0,,2499
+1901,04/10/2024,7788,,Mobile,Sports,1,1,0,0,0
+1902,17/04/2025,8849,Social,Tablet,,0,0,0,0,3499
+1903,21/05/2025,5883,Social,Desktop,Home & Kitchen,1,0,0,1,
+1904,11/12/2024,5756,Referral,Desktop,,1,0,0,0,1299
+1905,14/10/2024,7981,Organic,Mobile,Sports,1,0,1,,2499
+1906,28/06/2025,5660,Organic,Tablet,Fashion,1,1,1,,2499
+1907,02/05/2025,5280,Email,Desktop,,1,0,0,0,0
+1908,09/06/2025,8673,,Tablet,,0,0,,0,3499
+1909,28/11/2024,7175,,Tablet,,1,1,0,0,3499
+1910,04/06/2025,5207,Paid Ads,,Home & Kitchen,1,1,1,0,1999
+1911,04/04/2025,7392,,,Fashion,1,0,0,0,799
+1912,23/11/2024,5653,Paid Ads,Tablet,Sports,1,0,0,0,3499
+1913,06/05/2025,7087,Organic,Tablet,Home & Kitchen,0,1,1,0,1299
+1914,08/10/2024,8066,Paid Ads,Mobile,Fashion,1,0,0,0,1999
+1915,13/03/2025,7493,Paid Ads,Desktop,Home & Kitchen,0,0,1,0,799
+1916,10/12/2024,8707,Organic,,,1,1,1,1,1299
+1917,13/10/2024,8608,,Mobile,Electronics,1,,0,0,3499
+1918,10/05/2025,8847,,,Fashion,1,0,,0,0
+1919,13/03/2025,5946,Paid Ads,Desktop,,1,0,0,0,3499
+1920,13/12/2024,6930,Referral,Desktop,Fashion,1,1,0,0,2499
+1921,23/03/2025,8421,Referral,Desktop,,,1,1,1,1999
+1922,02/04/2025,8439,Email,,Fashion,,0,0,1,3499
+1923,07/10/2024,8309,Email,Mobile,,0,0,0,0,
+1924,26/04/2025,5102,Organic,Tablet,Electronics,1,0,0,0,1999
+1925,13/11/2024,6470,Paid Ads,,Electronics,0,0,0,0,1299
+1926,22/12/2024,5557,Paid Ads,Desktop,Beauty,1,0,0,0,0
+1927,28/02/2025,6612,Social,Tablet,Sports,0,1,0,0,1999
+1928,08/10/2024,7600,Email,Tablet,,1,0,1,0,1299
+1929,14/01/2025,6973,,Mobile,,1,1,0,,2499
+1930,09/02/2025,6400,Social,Mobile,Fashion,1,0,0,,1299
+1931,03/10/2024,6881,Email,,Sports,1,0,0,1,2499
+1932,24/12/2024,6496,Social,,Beauty,1,,1,,
+1933,17/12/2024,7793,Referral,Mobile,Beauty,1,0,0,0,
+1934,20/03/2025,7070,,Desktop,,0,1,1,0,0
+1935,23/04/2025,5635,,Tablet,Beauty,0,1,1,0,3499
+1936,22/12/2024,7250,,Tablet,Sports,0,0,0,0,799
+1937,23/11/2024,7575,Paid Ads,Tablet,,1,0,1,0,0
+1938,23/01/2025,5111,,Desktop,Fashion,1,0,1,0,1999
+1939,27/03/2025,5457,Paid Ads,Mobile,,1,0,0,0,1999
+1940,25/06/2025,5418,Referral,Mobile,Electronics,1,0,1,,0
+1941,09/02/2025,5071,,,,0,1,1,0,1999
+1942,09/04/2025,8938,Social,,Fashion,1,0,,0,1999
+1943,10/10/2024,8520,Paid Ads,Desktop,,1,0,0,,
+1944,22/01/2025,5353,Paid Ads,Tablet,,1,,0,0,3499
+1945,07/05/2025,6347,Social,Desktop,Home & Kitchen,,0,,1,1999
+1946,21/10/2024,6288,Paid Ads,,Sports,1,1,,1,799
+1947,03/05/2025,6471,Social,Desktop,,1,0,0,0,0
+1948,20/11/2024,7326,Email,Tablet,Electronics,1,1,0,0,3499
+1949,15/05/2025,7137,Organic,,Fashion,0,0,0,0,
+1950,13/03/2025,7106,,Mobile,Home & Kitchen,1,0,0,0,0
+1951,27/11/2024,8789,Paid Ads,Mobile,,1,0,0,0,0
+1952,21/12/2024,7397,Email,Desktop,,1,0,1,0,1299
+1953,10/10/2024,6307,Referral,Mobile,Electronics,1,0,0,0,2499
+1954,24/03/2025,5969,Email,Mobile,,1,,0,1,
+1955,21/01/2025,6857,,Desktop,Beauty,0,1,0,1,1999
+1956,22/03/2025,5165,,Mobile,Fashion,1,1,0,0,799
+1957,08/11/2024,5308,Referral,,Fashion,1,1,0,0,2499
+1958,10/01/2025,7107,Email,Desktop,,1,1,0,0,1999
+1959,30/12/2024,7224,,,Electronics,1,0,1,0,2499
+1960,29/04/2025,6613,Email,Desktop,Sports,1,0,0,0,799
+1961,12/02/2025,5958,Social,Desktop,,1,0,0,1,799
+1962,12/04/2025,7671,,,Electronics,1,1,,0,799
+1963,05/01/2025,6059,Paid Ads,Mobile,,0,0,0,1,1999
+1964,04/11/2024,6518,,Mobile,Electronics,1,0,0,0,
+1965,29/06/2025,5859,Paid Ads,Tablet,Fashion,1,1,1,0,2499
+1966,14/03/2025,5098,Social,,Electronics,1,,0,1,3499
+1967,21/11/2024,8470,Email,Mobile,,1,1,0,0,799
+1968,14/05/2025,5885,,Mobile,,1,1,0,,799
+1969,03/01/2025,8920,Paid Ads,Tablet,,1,0,0,1,1299
+1970,02/03/2025,7592,Email,Desktop,Beauty,1,1,1,,
+1971,19/06/2025,6000,Paid Ads,,,1,0,0,0,3499
+1972,07/02/2025,5396,,Tablet,,1,0,0,0,0
+1973,24/11/2024,8411,Paid Ads,,Fashion,1,0,,0,799
+1974,02/12/2024,8973,Email,Mobile,Electronics,1,0,1,0,1299
+1975,23/01/2025,6376,Referral,Tablet,,1,0,0,0,
+1976,29/05/2025,5111,Paid Ads,Desktop,Electronics,1,1,0,0,2499
+1977,11/10/2024,7127,Email,Tablet,Home & Kitchen,1,0,1,0,
+1978,28/10/2024,8594,,Mobile,Home & Kitchen,0,0,1,0,1999
+1979,30/06/2025,8436,Social,,Beauty,1,0,,1,2499
+1980,07/04/2025,7136,Organic,Desktop,Fashion,1,0,0,0,799
+1981,02/01/2025,8760,Paid Ads,,Home & Kitchen,1,,0,,1999
+1982,10/11/2024,8256,Paid Ads,Mobile,Sports,0,0,0,0,2499
+1983,02/01/2025,6670,,Tablet,Home & Kitchen,1,0,,1,1999
+1984,14/05/2025,8656,Email,Desktop,Beauty,1,1,0,0,0
+1985,16/04/2025,5044,Email,Tablet,Sports,,1,,0,1299
+1986,20/02/2025,7250,Organic,Desktop,Fashion,0,0,1,0,3499
+1987,16/03/2025,7316,Paid Ads,Mobile,,1,1,,,2499
+1988,03/05/2025,6593,Email,Desktop,,1,0,0,0,799
+1989,31/10/2024,8168,,Mobile,,1,0,1,0,799
+1990,02/10/2024,8194,Paid Ads,Mobile,,1,0,1,0,799
+1991,14/11/2024,6479,Paid Ads,Tablet,,1,0,0,0,1999
+1992,01/12/2024,6051,Organic,Desktop,Sports,1,1,0,0,2499
+1993,26/04/2025,6014,Organic,Tablet,Beauty,1,0,0,1,1299
+1994,06/03/2025,6545,Social,Tablet,,1,,1,0,1299
+1995,08/12/2024,6971,Social,Desktop,Sports,0,1,0,0,2499
+1996,30/03/2025,6834,,Mobile,Electronics,1,1,1,0,3499
+1997,25/12/2024,7509,Paid Ads,Tablet,,1,1,0,1,3499
+1998,10/11/2024,6520,Referral,Tablet,Beauty,0,1,1,1,
+1999,21/03/2025,8511,Organic,,,1,0,1,0,1299
+2000,23/06/2025,7760,Email,Desktop,Home & Kitchen,1,0,0,0,0
